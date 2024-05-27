@@ -1,0 +1,3 @@
+# Ihram Connect Companion App
+
+A single company companion app that is developed by our team focuses on facilitating communication among users. The first feature we present is a streaming feature where the organizing committee (clerics) acts as the broadcasters and users (congregants) act as listeners. This feature aims to make it easier for the organizing committee to direct and provide material to users and also to better the communication they do in their pilgrimage. In this case, our team employs a broker technique, where the broker acts as a tool used to disseminate important information from the organizing committee to be conveyed to users. The next feature aims to help users (congregants) easily find the best tourist destinations recommended by our application.
