@@ -1,11 +1,11 @@
 const { PrismaClient } = require('@prisma/client');
-const CreateUserDto = require('./dto/create-user.dto');
+const CreateUserDTO = require('./dto/create-user.dto');
 
 const prisma = new PrismaClient();
 
 class AuthRepository {
     async addUser(data) {
-        const createUserDto = CreateUserDto.fromRequest(data);
+        const createUserDto = CreateUserDTO.fromRequest(data);
         createUserDto.validate();
 
         return await prisma.users.create({
@@ -17,7 +17,7 @@ class AuthRepository {
         });
     }
 
-    async findUserByEmail() {
+    async findUserByEmail(email) {
         return await prisma.users.findUnique({
             where: { email }
         });

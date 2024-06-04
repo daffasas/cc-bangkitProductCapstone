@@ -20,6 +20,18 @@ class AuthMiddleware {
             res.status(400).json({ message: 'Invalid token.' });
         }
     }
+
+    async authorizeRole(role) {
+        return (req, res, next) => {
+            if (req.user.role !== role) {
+                return res.status(403).json({
+                    message: 'Access denied, insufficient permissions.'
+                });
+            }
+
+            next;
+        }
+    }
 }
 
 module.exports = new AuthMiddleware();

@@ -19,3 +19,9 @@ model users {
   password  String
   role      Int
 }
+
+model voices {
+  id        Int      @id @default(autoincrement())
+  title     String
+  voice
+}
