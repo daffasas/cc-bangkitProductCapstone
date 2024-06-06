@@ -1,9 +1,10 @@
+const { authenticateToken } = require("../authentication/auth.middleware");
 const voiceService = require("./voice.service");
 const express = require('express');
 
 const app = express();
 
-app.post('/', async (req, res) => {
+app.post('/', authenticateToken, async (req, res) => {
     try {
         const data = await voiceService.createVoice(req.body);
 
