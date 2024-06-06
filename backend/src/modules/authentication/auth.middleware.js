@@ -15,7 +15,7 @@ class AuthMiddleware {
         try {
             const verified = jwt.verify(token, JWT_SECRET);
             req.user = verified;
-            next;
+            next();
         } catch (error) {
             res.status(400).json({ message: 'Invalid token.' });
         }
@@ -29,7 +29,7 @@ class AuthMiddleware {
                 });
             }
 
-            next;
+            next();
         }
     }
 }
