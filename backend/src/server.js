@@ -3,7 +3,7 @@ const bodyParser = require('body-parser');
 const dotenv = require('dotenv');
 const authRoutes = require('./modules/authentication/auth.route');
 const voiceNoteRoute = require('./modules/voiceNote/voiceNoteRoute');
-const voiceRoute = require('./modules/voice/voice.route');
+const voiceRoutes = require('./modules/voice/voice.route');
 
 
 const app = express();
@@ -15,7 +15,7 @@ dotenv.config();
 // endpoint
 app.use('/auth', authRoutes);
 app.use('/voice-notes', voiceNoteRoute);
-app.use('/voice', voiceRoute);
+app.use('/voice', voiceRoutes);
 
 app.listen(PORT, () => {
     console.log(`Server is running on port ${PORT}`);
