@@ -18,17 +18,15 @@ app.post('/register', async (req, res) => {
 
 app.post('/login', async (req, res) => {
     const { email, password } = req.body;
-        
-    try {
-        const token = await authService.login(email, password);
-
-        res.status(200).json({
-            message: 'Login successfully',
-            token: token
-        });
-    } catch (error) {
-        res.status(500).json({ message: error.message });
-    }
+        try {
+            const token = await authService.login(email, password);
+            res.status(200).json({
+                message: 'Login successfully',
+                token: token
+            });
+        } catch (error) {
+            res.status(500).json({ message: error.message });
+        }
 });
 
 module.exports = app

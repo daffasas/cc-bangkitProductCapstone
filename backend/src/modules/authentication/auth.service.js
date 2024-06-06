@@ -7,24 +7,26 @@ const JWT_EXPIRE = process.env.JWT_EXPIRE;
 
 class AuthService {
     async register(data) {
+        const hashedPassword = await bcrypt.hash(data.password, 10);
+        data.password = hashedPassword;
         return await addUser(data);
     }
 
     async login(email, password) {
-        const user = findUserByEmail(email);
+        const user = await findUserByEmail(email);
 
         if (!user) {
             throw new Error('Invalid email or password');
         }
-        
+
         const validPassword = await bcrypt.compare(password, user.password);
-        
+
         if (!validPassword) {
             throw new Error('Invalid email or password');
         }
 
-        const token = jwt.sign({ email: user.email }, JWT_SECRET, { expiresIn: JWT_EXPIRE });
-        
+        const token = jwt.sign({ email: user.email, role: user.role }, JWT_SECRET, { expiresIn: JWT_EXPIRE });
+
         return token;
     }
 }
