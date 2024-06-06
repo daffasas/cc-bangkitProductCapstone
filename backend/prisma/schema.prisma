@@ -23,5 +23,12 @@ model users {
 model voices {
   id        Int      @id @default(autoincrement())
   title     String
-  voice
+  voice     String
+}
+
+model VoiceNote {
+  id          Int      @id @default(autoincrement())
+  title       String
+  filePath    String
+  createdAt   DateTime @default(now())
 }
