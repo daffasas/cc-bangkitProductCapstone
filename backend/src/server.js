@@ -15,7 +15,7 @@ dotenv.config();
 // endpoint
 app.use('/auth', authRoutes);
 app.use('/voice-notes', voiceNoteRoute);
-app.use('/voice', voiceRoutes);
+app.use('/voices', voiceRoutes);
 
 app.listen(PORT, () => {
     console.log(`Server is running on port ${PORT}`);
