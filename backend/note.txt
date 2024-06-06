@@ -1,0 +1,9 @@
+url /voice-note {
+    /:id
+    /update/:id
+    /get/:id
+}
+
+voiceNoteRoute
+
+akses -> google.com/voice-note/get/1
