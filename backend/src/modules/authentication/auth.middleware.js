@@ -21,16 +21,21 @@ class AuthMiddleware {
         }
     }
 
-    async authorizeRole(role) {
+    authorizeRole(role) {
         return (req, res, next) => {
             if (req.user.role !== role) {
                 return res.status(403).json({
-                    message: 'Access denied, insufficient permissions.'
+                    message: 'Access denied, your role is not allow to access this API.'
                 });
             }
 
             next();
         }
+    }
+
+    // Method to authorize role 1
+    async authorizeRole1(req, res, next) {
+        this.authorizeRole(1)(req, res, next);
     }
 }
 
