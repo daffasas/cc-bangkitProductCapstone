@@ -41,8 +41,10 @@ class VoiceRepository {
     }
 
     async deleteVoice(id) {
+        const voiceId = parseInt(id);
+
         return await prisma.voices.delete({
-            where: { id }
+            where: { id: voiceId }
         });
     }
 }

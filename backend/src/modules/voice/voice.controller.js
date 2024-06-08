@@ -1,4 +1,5 @@
 const { authenticateToken } = require("../authentication/auth.middleware");
+const { authorizeRole } = require("../authentication/auth.middleware")
 const voiceService = require("./voice.service");
 const express = require('express');
 
@@ -17,7 +18,7 @@ app.post('/', authenticateToken, async (req, res) => {
     }
 });
 
-app.get('/', async (req, res) =>  {
+app.get('/',authenticateToken, async (req, res) =>  {
     try {
         const data = await voiceService.getAllVoices();
         
@@ -68,7 +69,7 @@ app.put('/', async (req, res) => {
     }
 });
 
-app.delete('/', async (req, res) => {
+app.delete('/:id', async (req, res) => {
     try {
         const { id } = req.params;
         const data = await voiceService.deleteVoice(id);
