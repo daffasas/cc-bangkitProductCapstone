@@ -1,82 +1,107 @@
+const express = require('express');
+const multer = require('multer');
+const fs = require('fs');
+const path = require('path');
 const { authenticateToken, authorizeRole } = require("../authentication/auth.middleware");
 const voiceService = require("./voice.service");
-const express = require('express');
 
 const app = express();
 
-app.post('/', authenticateToken, authorizeRole(1), async (req, res) => {
-    try {
-        const data = await voiceService.createVoice(req.body);
-
-        res.status(201).json({
-            message: 'Voice created successfully',
-            data: data
-        });
-    } catch (error) {
-        res.status(500).json({ message: error.message });
+// Konfigurasi multer untuk penyimpanan file
+const storage = multer.diskStorage({
+    destination: function (req, file, cb) {
+        cb(null, '../uploads/');
+    },
+    filename: function (req, file, cb) {
+        cb(null, Date.now() + path.extname(file.originalname));
     }
 });
 
-app.get('/',authenticateToken, async (req, res) =>  {
+// Fungsi untuk memeriksa apakah file adalah audio
+const audioFileFilter = (req, file, cb) => {
+    if (file.mimetype.startsWith('audio/')) {
+        cb(null, true);
+    } else {
+        cb(new Error('File bukan audio!'), false);
+    }
+};
+
+const upload = multer({ 
+    storage: storage,
+    fileFilter: audioFileFilter
+});
+
+// Voice Note Controller
+const createVoice = async (req, res) => {
     try {
-        const data = await voiceService.getAllVoices();
+        console.log('Request Body:', req.body);
+        console.log('Uploaded File:', req.file);
         
-        res.status(200).json({
-            data: data
-        });
+        const { title } = req.body;
+        if (!title) {
+            return res.status(400).json({ error: 'Title is required' });
+        }
+        
+        const filePath = req.file.path;
+        const Voice = await voiceService.createVoice({ title, filePath });
+        res.status(201).json(Voice);
     } catch (error) {
-        res.status(500).json({ message: error.message });
+        res.status(500).json({ error: error.message });
     }
-});
+};
 
-app.get('/:id', async (req, res) => {
+
+const getAllVoices = async (req, res) => {
+    try {
+        const Voices = await voiceService.getAllVoices();
+        res.json(Voices);
+    } catch (error) {
+        res.status(500).json({ error: error.message });
+    }
+};
+
+const getVoiceById = async (req, res) => {
     try {
         const { id } = req.params;
-        const data = await voiceService.getVoiceById(id);
+        const Voice = await voiceService.getVoiceById(id);
 
-        if (!data) {
-            res.status(404).json({
-                message: 'Voice not found'
-            });
+        if (!Voice) {
+            return res.status(404).json({ message: 'Voice note not found' });
         }
 
-        res.status(200).json({
-            data: data
-        });
+        res.status(200).json(Voice);
     } catch (error) {
         res.status(500).json({ message: error.message });
     }
-});
+};
 
-app.put('/', async (req, res) => {
+const updateVoice = async (req, res) => {
     try {
         const { id } = req.params;
-        const data = await voiceService.updateVoice(id, req.body);
+        const { title } = req.body;
+        const filePath = req.file ? req.file.path : undefined;
+        const Voice = await voiceService.updateVoice(id, { title, filePath });
 
-        if (!data) {
-            res.status(404).json({
-                message: 'Voice not found'
-            });
+        if (!Voice) {
+            return res.status(404).json({ message: 'Voice note not found' });
         }
 
         res.status(200).json({
             message: 'Voice updated successfully',
-            data: data
+            data: Voice
         });
     } catch (error) {
         res.status(500).json({ message: error.message });
     }
-});
+};
 
-app.delete('/:id', async (req, res) => {
+const deleteVoice = async (req, res) => {
     try {
         const { id } = req.params;
-        const data = await voiceService.deleteVoice(id);
+        const Voice = await voiceService.deleteVoice(id);
 
-        if (!data) {
-            res.status(404).json({
-                message: 'Voice not found'
-            });
+        if (!Voice) {
+            return res.status(404).json({ error: 'Voice note not found' });
         }
 
         res.status(200).json({
@@ -85,6 +110,13 @@ app.delete('/:id', async (req, res) => {
     } catch (error) {
         res.status(500).json({ message: error.message });
     }
-});
+};
 
-module.exports = app
+// Route definitions
+app.post('/', upload.single('voiceNote'), authenticateToken, authorizeRole(1), createVoice);
+app.get('/', authenticateToken, getAllVoices);
+app.get('/:id', authenticateToken, getVoiceById);
+app.put('/:id', upload.single('Voice'), authenticateToken, authorizeRole(1), updateVoice);
+app.delete('/:id', authenticateToken, authorizeRole(1), deleteVoice);
+
+module.exports = app;
