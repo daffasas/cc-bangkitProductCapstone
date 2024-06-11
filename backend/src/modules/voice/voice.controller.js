@@ -7,13 +7,29 @@ const voiceService = require("./voice.service");
 
 const app = express();
 
+// Middleware untuk parsing body
+app.use(express.json());
+app.use(express.urlencoded({ extended: true }));
+
+/// Buat direktori uploads jika belum ada
+const uploadDir = path.join(__dirname, '../uploads');
+if (!fs.existsSync(uploadDir)) {
+    fs.mkdirSync(uploadDir);
+}
+
 // Konfigurasi multer untuk penyimpanan file
 const storage = multer.diskStorage({
     destination: function (req, file, cb) {
-        cb(null, '../uploads/');
+        cb(null, uploadDir);
     },
     filename: function (req, file, cb) {
-        cb(null, Date.now() + path.extname(file.originalname));
+        const { title } = req.body;
+        if (!title) {
+            return cb(new Error('Title is required'), false);
+        }
+        // Gantilah karakter yang tidak aman untuk nama file dengan _
+        const sanitizedTitle = title.replace(/[^a-z0-9]/gi, '_').toLowerCase();
+        cb(null, sanitizedTitle + path.extname(file.originalname));
     }
 });
 
@@ -38,17 +54,22 @@ const createVoice = async (req, res) => {
         console.log('Uploaded File:', req.file);
         
         const { title } = req.body;
-        if (!title) {
-            return res.status(400).json({ error: 'Title is required' });
+        if (!title || !req.file) {
+            return res.status(400).json({ error: 'All fields are required' });
         }
-        
+
+        // Define filePath as const since it won't be reassigned
         const filePath = req.file.path;
-        const Voice = await voiceService.createVoice({ title, filePath });
-        res.status(201).json(Voice);
+
+        // No reassignment for voice since it's the result of the service call
+        const voice = await voiceService.createVoice({ title, filePath });
+
+        res.status(201).json(voice);
     } catch (error) {
         res.status(500).json({ error: error.message });
     }
 };
+
 
 
 const getAllVoices = async (req, res) => {

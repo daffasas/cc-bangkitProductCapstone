@@ -20,15 +20,8 @@ model users {
   role      Int
 }
 
-model voices {
-  id        Int      @id @default(autoincrement())
-  title     String
-  voice     String
-}
 
 model VoiceNote {
   id          Int      @id @default(autoincrement())
   title       String
-  filePath    String
-  createdAt   DateTime @default(now())
 }
