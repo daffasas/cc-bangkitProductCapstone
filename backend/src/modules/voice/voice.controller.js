@@ -8,18 +8,17 @@ const CreateVoiceDTO = require("./dto/create-voice.dto");
 
 const app = express();
 
-// Middleware untuk parsing body
+// Middleware for parsing body
 app.use(express.json());
 app.use(express.urlencoded({ extended: true }));
 
-/// Buat direktori uploads jika belum ada
 // Ensure the uploads directory exists
 const uploadDir = path.join(__dirname, '../uploads');
 if (!fs.existsSync(uploadDir)) {
-    fs.mkdirSync(uploadDir, { recursive: true });
+    fs.mkdirSync(uploadDir);
 }
 
-// Konfigurasi multer untuk penyimpanan file
+// Configure multer for file storage
 const storage = multer.diskStorage({
     destination: function (req, file, cb) {
         cb(null, uploadDir);
@@ -29,12 +28,13 @@ const storage = multer.diskStorage({
         if (!title) {
             return cb(new Error('Title is required'), false);
         }
+        // Sanitize the title for use in a filename
         const sanitizedTitle = title.replace(/[^a-z0-9]/gi, '_').toLowerCase();
         cb(null, sanitizedTitle + path.extname(file.originalname));
     }
 });
 
-// Fungsi untuk memeriksa apakah file adalah audio
+// Filter to ensure the uploaded file is an audio file
 const audioFileFilter = (req, file, cb) => {
     if (file.mimetype.startsWith('audio/')) {
         cb(null, true);
@@ -51,6 +51,9 @@ const upload = multer({
 // Voice Note Controller
 const createVoice = async (req, res) => {
     try {
+        console.log('Request Body:', req.body);
+        console.log('Uploaded File:', req.file);
+        
         const { title } = req.body;
         if (!title || !req.file) {
             return res.status(400).json({ error: 'All fields are required' });
@@ -60,10 +63,7 @@ const createVoice = async (req, res) => {
         const createVoiceDTO = CreateVoiceDTO.fromRequest(req.body, filePath);
         createVoiceDTO.validate();
 
-        const voice = await voiceService.createVoice({
-            title: createVoiceDTO.title,
-            filePath: createVoiceDTO.filePath
-        });
+        const voice = await voiceService.createVoice(createVoiceDTO);
 
         res.status(201).json(voice);
     } catch (error) {
@@ -71,12 +71,10 @@ const createVoice = async (req, res) => {
     }
 };
 
-
-
 const getAllVoices = async (req, res) => {
     try {
-        const Voices = await voiceService.getAllVoices();
-        res.json(Voices);
+        const voices = await voiceService.getAllVoices();
+        res.json(voices);
     } catch (error) {
         res.status(500).json({ error: error.message });
     }
@@ -85,13 +83,13 @@ const getAllVoices = async (req, res) => {
 const getVoiceById = async (req, res) => {
     try {
         const { id } = req.params;
-        const Voice = await voiceService.getVoiceById(id);
+        const voice = await voiceService.getVoiceById(id);
 
-        if (!Voice) {
+        if (!voice) {
             return res.status(404).json({ message: 'Voice note not found' });
         }
 
-        res.status(200).json(Voice);
+        res.status(200).json(voice);
     } catch (error) {
         res.status(500).json({ message: error.message });
     }
@@ -102,15 +100,15 @@ const updateVoice = async (req, res) => {
         const { id } = req.params;
         const { title } = req.body;
         const filePath = req.file ? req.file.path : undefined;
-        const Voice = await voiceService.updateVoice(id, { title, filePath });
+        const voice = await voiceService.updateVoice(id, { title, filePath });
 
-        if (!Voice) {
+        if (!voice) {
             return res.status(404).json({ message: 'Voice note not found' });
         }
 
         res.status(200).json({
             message: 'Voice updated successfully',
-            data: Voice
+            data: voice
         });
     } catch (error) {
         res.status(500).json({ message: error.message });
@@ -120,9 +118,9 @@ const updateVoice = async (req, res) => {
 const deleteVoice = async (req, res) => {
     try {
         const { id } = req.params;
-        const Voice = await voiceService.deleteVoice(id);
+        const voice = await voiceService.deleteVoice(id);
 
-        if (!Voice) {
+        if (!voice) {
             return res.status(404).json({ error: 'Voice note not found' });
         }
 

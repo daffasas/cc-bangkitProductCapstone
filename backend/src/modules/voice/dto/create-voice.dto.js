@@ -1,24 +1,23 @@
 class CreateVoiceDTO {
-    constructor(title, voice) {
+    constructor(title, filePath) {
         this.title = title;
-     //   this.voice = voice;
+        this.filePath = filePath;
     }
 
-    static fromRequest(body) {
+    static fromRequest(body, filePath) {
         const { title } = body;
-        
-        return new CreateVoiceDTO(title);
+        return new CreateVoiceDTO(title, filePath);
     }
 
     validate() {
         const { title } = this;
 
-        if (title = 0) {
-            throw new Error('All fields are required');
+        if (!title) {
+            throw new Error('Title is required');
         }
 
         if (typeof title !== 'string') {
-            throw new Error('Invalid data types');
+            throw new Error('Invalid data type for title');
         }
     }
 }
