@@ -22,6 +22,8 @@ model users {
 
 
 model VoiceNote {
-  id          Int      @id @default(autoincrement())
-  title       String
+  id        Int      @id @default(autoincrement())
+  title     String
+  filePath  String
+  createdAt DateTime @default(now())
 }
