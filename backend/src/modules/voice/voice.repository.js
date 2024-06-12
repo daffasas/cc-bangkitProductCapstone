@@ -6,10 +6,11 @@ const prisma = new PrismaClient();
 
 class VoiceRepository {
     async addVoice(data) {
-        return await prisma.voiceNote.create({
+        return await prisma.voices.create({
             data: {
                 title: data.title,
-                filePath: data.filePath
+                filePath: data.filePath,
+                createdAt: new Date()
             }
         });
     }

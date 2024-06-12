@@ -12,19 +12,10 @@ CREATE TABLE "users" (
 CREATE TABLE "voices" (
     "id" SERIAL NOT NULL,
     "title" TEXT NOT NULL,
-    "voice" TEXT NOT NULL,
-
-    CONSTRAINT "voices_pkey" PRIMARY KEY ("id")
-);
-
--- CreateTable
-CREATE TABLE "VoiceNote" (
-    "id" SERIAL NOT NULL,
-    "title" TEXT NOT NULL,
     "filePath" TEXT NOT NULL,
     "createdAt" TIMESTAMP(3) NOT NULL DEFAULT CURRENT_TIMESTAMP,
 
-    CONSTRAINT "VoiceNote_pkey" PRIMARY KEY ("id")
+    CONSTRAINT "voices_pkey" PRIMARY KEY ("id")
 );
 
 -- CreateIndex

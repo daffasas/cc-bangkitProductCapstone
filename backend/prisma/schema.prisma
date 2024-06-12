@@ -21,7 +21,7 @@ model users {
 }
 
 
-model VoiceNote {
+model voices {
   id        Int      @id @default(autoincrement())
   title     String
   filePath  String
