@@ -18,5 +18,16 @@ CREATE TABLE "voices" (
     CONSTRAINT "voices_pkey" PRIMARY KEY ("id")
 );
 
+-- CreateTable
+CREATE TABLE "places" (
+    "id" SERIAL NOT NULL,
+    "place" TEXT NOT NULL,
+    "alamat" TEXT NOT NULL,
+    "rating" DOUBLE PRECISION NOT NULL,
+    "jarakMekkah" DOUBLE PRECISION NOT NULL,
+
+    CONSTRAINT "places_pkey" PRIMARY KEY ("id")
+);
+
 -- CreateIndex
 CREATE UNIQUE INDEX "users_email_key" ON "users"("email");

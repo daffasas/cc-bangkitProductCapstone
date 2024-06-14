@@ -27,3 +27,13 @@ model voices {
   filePath  String
   createdAt DateTime @default(now())
 }
+
+model places {
+  id         Int     @id @default(autoincrement())
+  place      String
+  alamat     String
+  rating     Float
+  jarakMekkah Float
+}
+
+

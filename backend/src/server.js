@@ -3,6 +3,7 @@ const bodyParser = require('body-parser');
 const dotenv = require('dotenv');
 const authController = require('./modules/authentication/auth.controller');
 const voiceController = require('./modules/voice/voice.controller');
+const placesController = require('./modules/places/places.controller');
 
 // Load environment variables from .env file
 dotenv.config();
@@ -23,6 +24,7 @@ app.use('/uploads', express.static('uploads'));
 // Endpoint routes
 app.use('/auth', authController);
 app.use('/voices', voiceController);
+app.use('/places', placesController);
 
 // Start the server
 app.listen(PORT, () => {
