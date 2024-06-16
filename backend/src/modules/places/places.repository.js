@@ -17,8 +17,15 @@ class PlacesRepository {
         });
     }
 
-    async getAllPlaces() {
-        return await prisma.places.findMany();
+    async getAllPlaces(skip, take) {
+        return await prisma.places.findMany({
+            skip: skip,
+            take: take,
+        });
+    }
+      
+    async getPlacesCount() {
+        return await prisma.places.count();
     }
 
     async getPlaceById(id) {

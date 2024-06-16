@@ -5,8 +5,19 @@ class PlacesService {
         return await placesRepository.addPlace(data);
     }
 
-    async getAllPlaces() {
-        return await placesRepository.getAllPlaces();
+    async getAllPlaces(page, pageSize) {
+        const skip = (page - 1) * pageSize;
+        const take = pageSize;
+      
+        const places = await placesRepository.getAllPlaces(skip, take);
+        const totalPlaces = await placesRepository.getPlacesCount();
+      
+        return {
+            data: places,
+            currentPage: page,
+            totalPages: Math.ceil(totalPlaces / pageSize),
+            totalPlaces: totalPlaces,
+        };
     }
 
     async getPlaceById(id) {
