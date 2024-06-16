@@ -20,8 +20,11 @@ router.post('/', authenticateToken, authorizeRole(1), async (req, res) => {
 
 // Get All Places
 router.get('/', authenticateToken, async (req, res) => {
+    const page = parseInt(req.query.page)
+    const pageSize = parseInt(req.query.pageSize)
+    
     try {
-        const places = await placesService.getAllPlaces();
+        const places = await placesService.getAllPlaces(page, pageSize);
         res.json(places);
     } catch (error) {
         res.status(500).json({ error: error.message });
