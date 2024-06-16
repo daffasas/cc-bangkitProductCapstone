@@ -1,0 +1,1213 @@
+id,place,alamat,rating,jarakMekkah
+1,Masjidil Haram,Makkah Al Mukarramah,5,0
+2,Jabal Thaur,Jabal Al Nour,4.8,3.5
+3,Bukit Uhud,Uhud Mountain View Resort,4.7,5
+4,Masjid Quba,Quba Mosque,4.9,6.2
+5,Masjid Qiblatain,Qiblatain Mosque,4.8,7.1
+6,Makam Nabi Muhammad,Al Masjid An Nabawi,5,450
+7,Museum Peradaban Islam,Al Siteen Street,4.7,3
+8,Taman Shubra,Shubra Park,4.6,4.2
+9,Pasar Tradisional Al Balad,Al Balad Market,4.5,2.7
+10,Menara Jam Mekkah,Abraj Al Bait,4.8,0.5
+11,Gua Hira,Jabal An-Nour,4.9,4
+12,Gua Tsur,Jabal Thaur,4.7,3.2
+13,Masjid Jinn,Jinn Mosque,4.6,9
+14,Museum Kerajaan Al Saud,Al Shubaikah,4.5,6.5
+15,Masjid Al Tan'eem,Al Tan'eem Mosque,4.7,7.8
+16,Masjid Al Khif,Al Khif Mosque,4.6,12
+17,Gua Senduduk,Senduduk Cave,4.5,8.5
+18,Museum Islam Madinah,Islamic Museum,4.7,450.2
+19,Masjid Qiblatain Madinah,Qiblatain Mosque Madinah,4.8,450.5
+20,Masjid Raya Madinah,Al Masjid An Nabawi Madinah,5,450
+21,Kebun Kurma Madinah,Madinah Dates Farm,4.6,452
+22,Pasar Tradisional Madinah,Madinah Traditional Market,4.5,451.5
+23,Bukit Uhud Madinah,Uhud Mountain Madinah,4.7,452.2
+24,Taman Al Anbar,Al Anbar Park,4.6,449.8
+25,Masjid Al Baqi,Al Baqi Mosque,4.8,451
+26,Gua Tsaur,Jabal Tsaur,4.7,3.4
+27,Masjid Al Miqat,Al Miqat Mosque,4.6,10
+28,Gua Semur,Semur Cave,4.5,9.2
+29,Museum Sejarah Mekkah,Makkah History Museum,4.7,2.5
+30,Taman Rekreasi Mekkah,Makkah Recreation Park,4.6,4.5
+31,Menara Pandang Mekkah,Makkah Observation Tower,4.7,1.2
+32,Masjid Arafat,Arafat Mosque,4.8,20
+33,Bukit Arafat,Arafat Hill,4.7,19.5
+34,Telaga Zamzam,Zamzam Well,4.9,0.2
+35,Pasar Tradisional Madinah Baru,New Madinah Traditional Market,4.6,451
+36,Museum Madinah Al Munawwarah,Madinah Al Munawwarah Museum,4.7,449.5
+37,Taman Alam Madinah,Madinah Nature Park,4.6,453
+38,Gua Hira Baru,New Hira Cave,4.5,4.2
+39,Masjid Raya Mekkah Baru,New Grand Mosque Makkah,4.8,0.8
+40,Taman Kota Mekkah,Makkah City Park,4.7,3.8
+41,Masjid Al Aqsa Mekkah,Al Aqsa Mosque Makkah,4.6,5.5
+42,Kompleks Pemakaman Baqi,Baqi Cemetery Complex,4.7,451.2
+43,Museum Sains Madinah,Madinah Science Museum,4.6,448
+44,Taman Air Mekkah,Makkah Water Park,4.5,6
+45,Bukit Nur,Nur Mountain,4.7,4.5
+46,Masjid Mizab Ar-Rahmah,Mizab Ar-Rahmah Mosque,4.6,0.4
+47,Gua Semur Baru,New Semur Cave,4.5,9
+48,Museum Sejarah Madinah,Madinah History Museum,4.7,449
+49,Kebun Anggur Mekkah,Makkah Vineyard,4.6,8
+50,Taman Bermain Madinah,Madinah Playground,4.5,452.5
+51,Masjid Al Ghamama,Al Ghamama Mosque,4.7,11
+52,Masjid Al Muayyadah,Al Muayyadah Mosque,4.6,12.5
+53,Masjid Al Rayah,Al Rayah Mosque,4.5,13
+54,Masjid Al Aqabah,Al Aqabah Mosque,4.7,14
+55,Masjid Al Jumah,Al Jumah Mosque,4.6,15
+56,Masjid Al Fath,Al Fath Mosque,4.5,16
+57,Masjid Al Qiblatayn Awal,Al Qiblatayn Awal Mosque,4.7,450.7
+58,Masjid Al Qiblatayn Akhir,Al Qiblatayn Akhir Mosque,4.6,450.8
+59,Masjid Bani Quraidhah,Bani Quraidhah Mosque,4.5,452.8
+60,Masjid Bani Nadhir,Bani Nadhir Mosque,4.7,453.5
+61,Masjid Al Mustarah,Al Mustarah Mosque,4.6,454
+62,Masjid Al Ijabah,Al Ijabah Mosque,4.5,455
+63,Masjid Bilal,"King Fahd, Makkah 24342, Arab Saudi",4.7,7
+64,Masjid Al Aqiq,Al Aqiq Mosque,4.6,457
+65,Masjid Al Ahzab,Al Ahzab Mosque,4.5,458
+66,Masjid Al Fatah,Al Fatah Mosque,4.7,459
+67,Masjid Al Musalla,Al Musalla Mosque,4.6,460
+68,Masjid Al Quba Awal,Al Quba Awal Mosque,4.5,461
+69,Masjid Al Quba Akhir,Al Quba Akhir Mosque,4,421
+70,Masjid Al Manazhil,Al Manazhil Mosque,4.6,462
+71,Masjid Al Muraysi,Al Muraysi Mosque,4.7,463
+72,Masjid Al Shuhadaa,Al Shuhadaa Mosque,4.5,464
+73,Masjid Al Fath Madinah,Al Fath Mosque Madinah,4.6,465
+74,Masjid Al Awali,Al Awali Mosque,4.7,466
+75,Masjid Al Qiblatain Utara,North Qiblatain Mosque,4.5,450.6
+76,Masjid Al Qiblatain Selatan,South Qiblatain Mosque,4.6,450.4
+77,Taman Alam Mekkah,Makkah Nature Park,4.7,7
+78,Kebun Buah Mekkah,Makkah Fruit Garden,4.5,8.5
+79,Pusat Oleh-Oleh Mekkah,Makkah Souvenir Center,4.6,1.5
+80,Terowongan Al Masjid Al Haram,Al Masjid Al Haram Tunnel,4.7,0.3
+81,Kompleks Perbelanjaan Mekkah,Makkah Shopping Complex,4.5,1
+82,Masjid Al Ghars,Al Ghars Mosque,4.6,467
+83,Masjid Al Fath Madinah Baru,New Al Fath Mosque Madinah,4.7,468
+84,Masjid Al Wadah,Al Wadah Mosque,4.5,469
+85,Masjid Al Qiblatayn Barat,West Qiblatain Mosque,4.6,450.3
+86,Masjid Al Qiblatayn Timur,East Qiblatain Mosque,4.7,450.7
+87,Galeri Seni Mekkah,Makkah Art Gallery,4.5,2.2
+88,Pusat Kerajinan Madinah,Madinah Handicraft Center,4.6,448.5
+89,Perpustakaan Umum Mekkah,Makkah Public Library,4.7,3
+90,Teater Terbuka Mekkah,Makkah Open-Air Theater,4.5,4
+91,Stasiun Kereta Mekkah,Makkah Railway Station,4.6,5.5
+92,Taman Bunga Mekkah,Makkah Flower Garden,4.7,6.2
+93,Pusat Konvensi Mekkah,Makkah Convention Center,4.5,1.8
+94,Pusat Kebugaran Mekkah,Makkah Fitness Center,4.6,2.5
+95,Pusat Perawatan Kesehatan Mekkah,Makkah Health Care Center,4.7,3.2
+96,Museum Sains dan Teknologi Mekkah,Makkah Science and Technology Museum,4.5,4.5
+97,Planetarium Mekkah,Makkah Planetarium,4.6,5
+98,Akuarium Mekkah,Makkah Aquarium,4.7,6
+99,Taman Bermain Anak Mekkah,Makkah Children's Playground,4.5,7
+100,Pusat Hiburan Keluarga Mekkah,Makkah Family Entertainment Center,4.6,8
+101,Pusat Olah Raga Mekkah,Makkah Sports Center,4.7,9
+102,Kolam Renang Terbuka Mekkah,Makkah Open-Air Swimming Pool,4.5,10
+103,Pusat Perbelanjaan Madinah,Madinah Shopping Center,4.6,447
+104,Galeri Seni Madinah,Madinah Art Gallery,4.7,446
+105,Teater Terbuka Madinah,Madinah Open-Air Theater,4.5,445
+106,Stasiun Kereta Madinah,Madinah Railway Station,4.6,444
+107,Taman Bunga Madinah,Madinah Flower Garden,4.7,443
+108,Pusat Konvensi Madinah,Madinah Convention Center,4.5,442
+109,Pusat Kebugaran Madinah,Madinah Fitness Center,4.6,441
+110,Pusat Perawatan Kesehatan Madinah,Madinah Health Care Center,4.7,440
+111,Museum Sains dan Teknologi Madinah,Madinah Science and Technology Museum,4.5,439
+112,Planetarium Madinah,Madinah Planetarium,4.6,438
+113,Akuarium Madinah,Madinah Aquarium,4.7,437
+114,Taman Bermain Anak Madinah,Madinah Children's Playground,4.5,436
+115,Pusat Hiburan Keluarga Madinah,Madinah Family Entertainment Center,4.6,435
+116,Pusat Olah Raga Madinah,Madinah Sports Center,4.7,434
+117,Kolam Renang Terbuka Madinah,Madinah Open-Air Swimming Pool,4.5,433
+118,Taman Kota Madinah,Madinah City Park,4.6,432
+119,Kebun Binatang Mekkah,Makkah Zoo,4.7,11
+120,Pusat Kuda Mekkah,Makkah Horse Riding Center,4.5,12
+121,Galeri Fotografi Mekkah,Makkah Photography Gallery,4.6,13
+122,Pusat Kerajinan Mekkah,Makkah Handicraft Center,4.7,14
+123,Perpustakaan Umum Madinah,Madinah Public Library,4.5,431
+124,Kebun Binatang Madinah,Madinah Zoo,4.6,430
+125,Pusat Kuda Madinah,Madinah Horse Riding Center,4.7,429
+126,Galeri Fotografi Madinah,Madinah Photography Gallery,4.5,428
+127,Masjid Al Amwaj,Al Amwaj Mosque,4.6,470
+128,Masjid Al Fath Mekkah,Al Fath Mosque Makkah,4.7,15
+129,Masjid Al Hudaibiyah,Al Hudaibiyah Mosque,4.5,471
+130,Masjid Al Khaif,Al Khaif Mosque,4.6,472
+131,Masjid Al Muraisi,Al Muraisi Mosque,4.7,473
+132,Masjid Al Mustarah Madinah,Al Mustarah Mosque Madinah,4.5,474
+133,Masjid Al Qamus,Al Qamus Mosque,4.6,475
+134,Masjid Ar Rayah Madinah,"7460 Uthman Ibn Affan Rd, Al Rayah",4.7,480
+135,Al-Noor Mall,"King Abdullah Branch Rd, Al'uyun, Madinah 42331",4.7,438
+136,Masjid Raya Jannatul Baqi,"Hijaz, Madinah",4.9,440
+137,Masjid Bir Ali,Distrik Dzulhulaifah,4.7,432
+138,Al Diyafa Mall,"Al-Hajlah, Makkah 24231, Saudi Arabia ",4.5,2
+139,Al-Khalidiyyah Park,"Kharrash Ibn Al Sammah, Al Khalidiyyah, Madinah",4.7,442
+140,Badr Battlefield,"Badr, Saudi Arabia",4.7,34
+141,Qasr Al-Farid,"Madinah, Saudi Arabia",4.6,424
+142,Al-Hejaz Railway Museum,"Omar Bin Al Khattab Rd, Al Suqya, Madinah",5,437
+143,Madain Salih,"Madinah, Saudi Arabia",4.8,500
+144,Piramida Giza," Giza Plateau, Al-Haram, Giza",4.9,1444
+145,Sphinx," Giza Plateau, Al-Haram, Giza",4.7,1442
+146,Museum Mesir," Tahrir Square, Cairo",4.7,1420
+147,Karnak Temple, Luxor,4.8,1620
+148,Luxor Temple, Luxor,4.7,1620
+149,Valley of the Kings, Luxor,4.8,1625
+150,Abu Simbel Temples," Abu Simbel, Aswan",4.9,1256
+151,Kom Ombo Temple," Kom Ombo, Aswan",4.6,1543
+152,Philae Temple," Agilkia Island, Aswan",4.7,1567
+153,Temple of Edfu, Edfu,4.8,1660
+154,Saqqara," Saqqara Necropolis, Giza",4.5,1448
+155,Dahshur," Dahshur, Giza",4.5,1446
+156,Hanging Church," Old Cairo, Cairo, Egypt",4.7,1452
+157,Coptic Museum," Mar Girgis, Old Cairo",4.6,1432
+158,Citadel of Saladin," Al Abageyah, Salah Salem",4.8,1436
+159,Mosque of Muhammad Ali," Al Abageyah, Salah Salem",4.7,1450
+160,Khan El Khalili," Islamic Cairo, Cairo",4.6,1431
+161,Siwa Oasis," Siwa, Matrouth",4.7,1170
+162,Mount Sinai," Saint Catherine, South Sinai",4.8,1475
+163,Ras Mohamed National Park," Sharm El Sheikh, South Sinai",4.9,1521
+164,Dendera Temple, Qena,4.7,1580
+165,El Gouna," Hurghada, Red Sea",4.6,1570
+166,St. Catherine's Monastery," Saint Catherine, South Sinai",4.8,1475
+167,White Desert," Farafra, New Valley",4.9,1430
+168,Al-Azhar Park," Salah Salem St, Cairo",4.6,1442
+169,Memphis," Mit Rahina, Badrasheen",4.6,1432
+170,Qaitbay Citadel, Alexandria,4.7,1525
+171,Alexandria Library," El Shatby, Alexandria",4.8,1524
+172,Montaza Palace," Montaza, Alexandria",4.7,1530
+173,Roman Amphitheatre," Kom El-Dikka, Alexandria",4.5,1526
+174,Pompey's Pillar," Karmouz, Alexandria",4.6,1525
+175,Catacombs of Kom el Shoqafa," Karmouz, Alexandria",4.5,1524
+176,Qarun Lake, Fayoum,4.6,1400
+177,Wadi El Rayan, Fayoum,4.7,1398
+178,Temple of Hibis," Kharga Oasis, New Valley",4.5,1550
+179,St. Simeon Monastery, Aswan,4.7,1742
+180,Nubian Museum, Aswan,4.8,1740
+181,Tombs of the Nobles, Aswan,4.6,1741
+182,Unfinished Obelisk, Aswan,4.5,1741
+183,Monastery of St. Anthony," Eastern Desert, Red Sea",4.7,1470
+184,Monastery of St. Paul," Eastern Desert, Red Sea",4.6,1472
+185,Dakhla Oasis," Dakhla, New Valley",4.7,1400
+186,Fayoum Oasis, Fayoum,4.6,1398
+187,Red Sea Diving," Hurghada, Red Sea",4.9,1571
+188,Blue Hole," Dahab, South Sinai",4.8,1610
+189,Colored Canyon," Nuweiba, South Sinai",4.7,1620
+190,Wadi El Gemal," Marsa Alam, Red Sea",4.8,1600
+191,Abydos Temple, Sohag,4.7,1550
+192,Temple of Khnum, Esna,4.6,1630
+193,Temple of Seti I," Abydos, Sohag",4.7,1552
+194,Marina El Alamein," El Alamein, Matrouth",4.8,1470
+195,Siwa Shali Fortress," Siwa, Matrouth",4.6,1172
+196,Temple of Dakka," Nubia, Aswan",4.6,1770
+197,Temple of Kalabsha," Nubia, Aswan",4.6,1765
+198,El-Alamein War Cemetery," El Alamein, Matrouth",4.7,1482
+199,Temple of Debod," Nubia, Aswan",4.5,1772
+200,Wadi Al-Hitan, Fayoum,4.8,1402
+201,El Kab, Edfu,4.5,1662
+202,Wadi Sannur, Beni Suef,4.7,1425
+203,Gabal Elba," Hala'ib Triangle, Red Sea",4.7,1720
+204,Gayer-Anderson Museum," Sayyida Zeinab, Cairo",4.6,1451
+205,Bab Zuweila, Islamic Cairo,4.5,1449
+206,El Moez Street, Islamic Cairo,4.8,1449
+207,Mosque of Ibn Tulun, Sayyida Zeinab,4.6,1451
+208,Aquarium Grotto Garden, Zamalek,4.5,1450
+209,Gezira Island, Zamalek,4.7,1430
+210,Tahrir Square, Downtown,4.5,1450
+211,Islamic Art Museum, Bab Al-Khalk,4.7,1449
+212,Abdeen Palace, Abdeen,4.6,1447
+213,Nile River Cruise, Luxor to Aswan,4.9,1622
+214,Al-Muizz Street, Islamic Cairo,4.8,1443
+215,Al-Hakim Mosque, Islamic Cairo,4.6,1432
+216,Royal Jewelry Museum," Zizinia, Alexandria",4.7,1526
+217,Cleopatra's Bath," Marsa Matruh, Matrouh",4.5,1356
+218,Nubian Village," Gharb Seheil, Aswan",4.8,1740
+219,Agilkia Island, Aswan,4.7,1740
+220,El Goliath, Bahariya Oasis,4.6,1420
+221,Rock Temples of Abu Simbel," Abu Simbel, Aswan",4.9,1760
+222,Bahariya Oasis," Bahariya, Giza",4.7,1420
+223,Golden Mummies Museum," Bahariya, Giza",4.6,1210
+224,Tomb of Amunherkhepshef," Valley of the Kings, Luxor",4.8,1562
+225,Tomb of Tutankhamun," Valley of the Kings, Luxor",4.9,1625
+226,Tomb of Ramses VI," Valley of the Kings, Luxor",4.7,1625
+227,Madinet Habu, Luxor,4.7,1623
+228,Ramesseum, Luxor,4.6,1623
+229,Colossi of Memnon, Luxor,4.5,1623
+230,Luxor Museum," Corniche El Nil, Luxor",4.7,1620
+231,Mortuary Temple of Hatshepsut, Luxor,4.8,1624
+232,Aswan Botanical Garden, Aswan,4.7,1740
+233,Sound and Light Show at Giza," Giza Plateau, Al Haram",4.8,1444
+234,Sound and Light Show at Karnak," Karnak Temple, Luxor",4.8,1620
+235,Sound and Light Show at Philae," Agilkia Island, Aswan",4.8,1740
+236,Felucca Ride on the Nile, Cairo,4.7,1450
+237,Hot Air Balloon Ride, Luxor,4.9,1621
+238,Sound and Light Show at Abu Simbel," Abu Simbel, Aswan",4.9,1720
+239,Wadi El Natrun, Beheira,4.6,1410
+240,Saint Simeon Monastery, Aswan,4.6,1742
+241,Sultan Hassan Mosque, Islamic Cairo,4.8,1430
+242,Al-Rifa'i Mosque, Islamic Cairo,4.7,1450
+243,Baron Empain Palace, Heliopolis,4.6,1445
+244,Solar Boat Museum," Giza Plateau, Al Haram",4.5,1444
+245,National Museum of Egyptian Civilization," Fustat, Cairo",4.7,1448
+246,The Red Sea Aquarium," Hurghada, Red Sea",4.7,1542
+247,St. Samuel Monastery, Minya,4.6,1480
+248,Akhmim, Sohag,4.5,1550
+249,Temple of Beit el-Wali," Nubia, Aswan",4.5,1770
+250,Al-Ghuri Complex, Islamic Cairo,4.7,1449
+251,Mosque of Al-Azhar, Islamic Cairo,4.8,1449
+252,Sabil-Kuttab of Sultan Qaytbay, Islamic Cairo,4.6,1449
+253,Al-Azhar Mosque, Islamic Cairo,4.8,1449
+254,City of the Dead, Islamic Cairo,4.6,1451
+255,Midan Tahrir, Downtown,4.5,1450
+256,Salah El-Din Citadel, Al Abageyah,4.7,1450
+257,Mosque of Al-Hussein, Islamic Cairo,4.6,1445
+258,The Cave Church, Mokattam,4.7,1430
+259,Beni Hasan, Minya,4.6,1480
+260,Red Monastery, Sohag,4.7,1550
+261,White Monastery, Sohag,4.6,1550
+262,Ain Sokhna, Suez,4.6,1370
+263,Port Said," Suez Canal, Port Said",4.5,1432
+264,El Quseir, Red Sea,4.5,1650
+265,Akhmim Temples, Sohag,4.6,1550
+266,Shali Fortress," Siwa Oasis, Mathrouh",4.6,1172
+267,Siwa House Museum, Siwa,4.6,1171
+268,Cleopatra Spring, Siwa,4.7,1169
+269,Mountain of the Dead, Siwa,4.6,1165
+270,Old Cataract Hotel, Aswan,4.8,1740
+271,Fatnas Island, Siwa,4.7,1160
+272,El-Alamein Museum, El Alamein,4.6,1479
+273,Serabit El-Khadim, South Sinai,4.5,1605
+274,Wadi Mujib, Jordan,4.6,1400
+275,Tanis," San el-Hagar, Sharqia",4.5,1480
+276,Bubastis," Zagazig, Sharqia",4.6,1470
+277,Tel El-Amarna, Minya,4.6,1482
+278,El-Dababiya, Luxor,4.7,1620
+279,Meidum Pyramid, Beni Suef,4.5,1420
+280,Marsa Matruh, Matrouh,4.6,1400
+281,Roman Theatre, Alexandria,4.5,1525
+282,Monastery of St. Bishoy, Wadi El Natrun,4.6,1410
+283,Monastery of St. Macarius, Wadi El Natrun,4.6,1410
+284,Great Sand Sea, Siwa,4.7,1165
+285,Great Pyramid of Khufu, Giza Plateau,4.9,1444
+286,Pyramid of Khafre, Giza Plateau,4.8,1444
+287,Pyramid of Menkaure, Giza Plateau,4.8,1444
+288,Wadi El Hitan, Fayoum,4.7,1402
+289,Tomb of Ramses III, Valley of the Kings,4.7,1356
+290,Tomb of Merenptah, Valley of the Kings,4.6,1345
+291,Valley of the Queens, Luxor,4.6,1623
+292,Temple of Montu," Armant, Luxor",4.5,1402
+293,Al-Qasr," Dakhla Oasis, New Valley",4.6,1200
+294,Thebes, Luxor,4.6,1620
+295,Temple of Dendera, Qena,4.7,1580
+296,Medinet Habu," West Bank, Luxor",4.7,1613
+297,Temple of Khonsu," Karnak, Luxor",4.6,1621
+298,Temple of Mut," Karnak, Luxor",4.6,1620
+299,El-Lahun Pyramid, Faiyum,4.5,1398
+300,Deir El Medina," West Bank, Luxor",4.6,1623
+301,Temple of Merneptah," West Bank, Luxor",4.6,1623
+302,Aswan High Dam, Aswan,4.6,1745
+303,Lake Nasser, Aswan,4.7,1745
+304,Tomb of Aye," Valley of the Kings, Luxor",4.6,1625
+305,Red Pyramid," Dahshur, Giza",4.6,1446
+306,Bent Pyramid," Dahshur, Giza",4.5,1446
+307,Temple of Kom Ombo," Kom Ombo, Aswan",4.6,1600
+308,Temple of Esna, Esna,4.6,1630
+309,Temple of Deir el-Bahari," West Bank, Luxor",4.8,1624
+310,Amarna Tombs, Minya,4.6,1482
+311,Temple of Hibis," Kharga, New Valley",4.5,1550
+312,Qasr el Yahud, Luxor,4.7,1620
+313,Petra, Ma'an,4.9,895
+314,Wadi Rum, Aqaba,4.8,890
+315,Dead Sea, Amman Beach,4.7,1290
+316,Jerash Ruins, Jerash,4.8,1280
+317,Mount Nebo, Madaba,4.7,1250
+318,Amman Citadel, Amman,4.6,1260
+319,Roman Theatre, Amman,4.5,1260
+320,Ajloun Castle, Ajloun,4.6,1295
+321,Madaba Mosaic Map, Madaba,4.6,1250
+322,Bethany Beyond the Jordan, Jordan Valley,4.8,1295
+323,Dana Biosphere Reserve, Tafila,4.7,900
+324,Al-Khazneh (The Treasury), Petra,4.9,895
+325,Qasr Amra, Zarqa,4.7,1270
+326,Aqaba Marine Park, Aqaba,4.6,885
+327,Umm Qais, Irbid,4.7,1320
+328,Azraq Wetland Reserve, Azraq,4.6,1335
+329,Temple of Hercules, Amman Citadel,4.7,1230
+330,Siq," Petra, Ma'an",4.9,895
+331,Kerak Castle, Kerak,4.6,1100
+332,Al-Maghtas, Jordan Valley,4.8,1295
+333,Royal Automobile Museum, Amman,4.7,1260
+334,Al-Hasa Castle, Tafila,4.6,980
+335,Ma'in Hot Springs, Madaba,4.7,1245
+336,Qasr al-Kharrana, Zarqa,4.6,1275
+337,Mujib Nature Reserve, Madaba,4.7,1290
+338,Little Petra, Ma'an,4.8,895
+339,Wadi Mujib, Madaba,4.7,1280
+340,Jordan Archaeological Museum, Amman,4.6,1260
+341,Ayla Oasis, Aqaba,4.5,885
+342,Desert Castles, Eastern Desert,4.6,1270
+343,Qasr al-Azraq, Azraq,4.7,1330
+344,Amman Beach, Dead Sea,4.6,1290
+345,King Abdullah Mosque, Amman,4.7,1260
+346,Al-Siq Trail," Petra, Ma'an",4.9,894
+347,Aljoun Nature Reserve, Ajloun,4.7,1295
+348,Wadi Bin Hammad, Karak,4.6,1105
+349,As-Salt, Balqa,4.5,1265
+350,Zarqa Ma'in, Madaba,4.6,1250
+351,South Beach, Aqaba,4.7,885
+352,Wadi Rum Visitor Center, Aqaba,4.8,890
+353,Petra Church," Petra, Ma'an",4.7,895
+354,Jordan River, Jordan Valley,4.6,1295
+355,Mount Al-Qala'a," Amman Citadel, Amman",4.5,1260
+356,Jabal Al-Weibdeh, Amman,4.6,1260
+357,Rainbow Street, Amman,4.5,1260
+358,King's Highway, Madaba,4.6,1250
+359,Royal Tank Museum, Amman,4.6,1260
+360,Qasr al-Mushatta, Amman,4.6,1265
+361,Shobak Castle, Ma'an,4.7,950
+362,Al-Weibdeh, Amman,4.5,1260
+363,Madaba Archaeological Park, Madaba,4.6,1250
+364,Darat al Funun, Amman,4.5,1260
+365,Ahl Al Kahf, Amman,4.6,1260
+366,Ajloun Forest Reserve, Ajloun,4.7,1295
+367,Wadi Feynan, Tafila,4.7,910
+368,Museum of Popular Tradition, Amman,4.6,1260
+369,Qasr Tuba, Eastern Desert,4.6,1270
+370,Aqaba Fortress, Aqaba,4.7,885
+371,Ahl Al Kahf Cave, Amman,4.6,1260
+372,Dead Sea Museum, Madaba,4.6,1290
+373,Wadi Rum Protected Area, Aqaba,4.8,890
+374,Street of Facades," Petra, Ma'an",4.9,895
+375,Ras Al Ain Gallery, Amman,4.5,1260
+376,Petra Kitchen," Petra, Ma'an",4.8,895
+377,Great Temple," Petra, Ma'an",4.9,895
+378,Jabal Haroun," Petra, Ma'an",4.8,895
+379,Aqaba Bird Observatory, Aqaba,4.6,885
+380,Wadi Araba, Aqaba,4.6,890
+381,Wadi Al-Hasa, Tafila,4.7,960
+382,King Hussein Bin Talal Mosque, Amman,4.7,1260
+383,Jordan Folklore Museum, Amman,4.6,1260
+384,Um er-Rasas, Madaba,4.6,1265
+385,Saqr Library, Amman,4.5,1260
+386,Al-Khazneh, Petra,4.9,895
+387,Byzantine Church," Petra, Ma'an",4.7,895
+388,Wadi Shuayb, Balqa,4.6,1265
+389,Ayla Golf Club, Aqaba,4.5,885
+390,Madaba Institute for Mosaic Art & Restoration, Madaba,4.6,1250
+391,Shaumari Wildlife Reserve, Azraq,4.7,1330
+392,Al-Omari Mosque, Amman,4.6,1260
+393,Petra Museum," Petra, Ma'an",4.7,895
+394,Roman Nymphaeum, Amman,4.6,1260
+395,Wadi Hasa, Tafila,4.7,960
+396,Dead Sea Panorama Complex, Madaba,4.7,1290
+397,Jordan National Gallery of Fine Arts, Amman,4.6,1260
+398,Qasr el Yahud, Jordan Valley,4.7,1295
+399,Aqaba Archaeological Museum, Aqaba,4.6,885
+400,Amman Waves, Amman,4.5,1260
+401,Qasr Al-Muwaqqar, Amman,4.5,1265
+402,Khirbet et-Tannur, Tafila,4.6,900
+403,Al-Siq Canyon," Petra, Ma'an",4.9,895
+404,Beidha," Petra, Ma'an",4.8,895
+405,Hammamat Ma'in, Madaba,4.6,1245
+406,Petra Moon," Petra, Ma'an",4.7,895
+407,Aqaba Park, Aqaba,4.6,885
+408,Qasr Al-Muwaqqar, Eastern Desert,4.5,1270
+409,Al-Hasan Sports City, Irbid,4.5,1320
+410,Baptism Site, Jordan Valley,4.8,1295
+411,Wadi Rum Camp, Aqaba,4.8,890
+412,Wadi Rum Rest House, Aqaba,4.7,890
+413,Wadi Al-Kharrar, Jordan Valley,4.7,1295
+414,Bergesh Forest, Ajloun,4.7,1295
+415,Umayyad Palace," Amman Citadel, Amman",4.7,1260
+416,Al-Americana," Petra, Ma'an",4.8,895
+417,Qasr Hallabat, Zarqa,4.6,1275
+418,Azraq Castle, Azraq,4.6,1330
+419,Raghadan Palace, Amman,4.6,1260
+420,Dead Sea Spa, Amman Beach,4.7,1290
+421,Al-Balqa Mosque, Salt,4.6,1265
+422,Wadi Rum Bedouin Camp, Aqaba,4.8,890
+423,Ajloun Soap House, Ajloun,4.6,1295
+424,Seven Pillars of Wisdom," Wadi Rum, Aqaba",4.8,890
+425,South Bay, Aqaba,4.6,885
+426,Jerash Archaeological Museum, Jerash,4.7,1280
+427,King's Way, Madaba,4.6,1250
+428,King's Road, Madaba,4.6,1250
+429,Wadi Ghweir, Tafila,4.7,920
+430,Ad-Deir Trail," Petra, Ma'an",4.9,895
+431,Petra By Night," Petra, Ma'an",4.9,895
+432,Petra Guest House," Petra, Ma'an",4.7,895
+433,Wadi Ghuweir, Tafila,4.7,920
+434,Wadi Ghazal, Madaba,4.7,1290
+435,Wadi Aseil, Madaba,4.7,1285
+436,Wadi Karak, Karak,4.6,1100
+437,Wadi Shu'ayb, Balqa,4.6,1265
+438,Salt Archaeological Museum, Balqa,4.6,1265
+439,Wadi Zarqa Ma'in, Madaba,4.6,1250
+440,Qasr al-Abd, Amman,4.6,1265
+441,Qasr Iraq al-Amir, Amman,4.6,1265
+442,Jerash Temple of Artemis, Jerash,4.8,1280
+443,Wadi Zarqa, Zarqa,4.6,1270
+444,King's Highway, Karak,4.6,1100
+445,Wadi al-Kharrar, Jordan Valley,4.7,1295
+446,Qasr El Yahud, Jordan Valley,4.7,1295
+447,Qasr Abu Haram, Zarqa,4.6,1275
+448,King Hussein Park, Amman,4.6,1260
+449,Baptism Site, Madaba,4.8,1290
+450,Hammamat Ma'in, Madaba,4.7,1245
+451,Qasr Shabib, Zarqa,4.6,1270
+452,Qasr Mushash, Zarqa,4.6,1270
+453,Wadi Mukheiris, Madaba,4.7,1280
+454,Qasr al-Muwaqqar, Amman,4.5,1265
+455,Jerash Hippodrome, Jerash,4.8,1280
+456,Wadi Rajib, Ajloun,4.7,1295
+457,Jerash Forum, Jerash,4.8,1280
+458,Al-Romman Castle, Ajloun,4.6,1295
+459,Wadi Bin Hammad, Karak,4.7,1105
+460,Ahl Al Kahf Cave, Amman,4.6,1260
+461,Wadi Rum Rest House, Aqaba,4.8,890
+462,Wadi Aseil, Madaba,4.7,1285
+463,Wadi Ghuweir, Tafila,4.7,920
+464,King's Road, Madaba,4.6,1250
+465,Ahl Al Kahf, Amman,4.6,1260
+466,King Abdullah Mosque, Amman,4.7,1260
+467,Wadi Bin Hammad, Karak,4.7,1105
+468,Qasr Abu Haram, Zarqa,4.6,1275
+469,Wadi Shu'ayb, Balqa,4.6,1265
+470,Jerash Hippodrome, Jerash,4.8,1280
+471,Baptism Site, Jordan Valley,4.8,1295
+472,King Hussein Park, Amman,4.6,1260
+473,Salt Archaeological Museum, Balqa,4.6,1265
+474,Wadi Rajib, Ajloun,4.7,1295
+475,Qasr Shabib, Zarqa,4.6,1270
+476,Qasr El Yahud, Jordan Valley,4.7,1295
+477,Jerash Temple of Artemis, Jerash,4.8,1280
+478,Qasr al-Mushatta, Amman,4.6,1265
+479,Wadi Karak, Karak,4.6,1100
+480,Jerash Forum, Jerash,4.8,1280
+481,Wadi Mukheiris, Madaba,4.7,1280
+482,Al-Americana," Petra, Ma'an",4.8,895
+483,King Hussein Bin Talal Mosque, Amman,4.7,1260
+484,Jerash Archaeological Museum, Jerash,4.7,1280
+485,Wadi Shuayb, Balqa,4.6,1265
+486,Qasr Al-Muwaqqar, Eastern Desert,4.5,1270
+487,Qasr Hallabat, Zarqa,4.6,1275
+488,Ayla Oasis, Aqaba,4.5,885
+489,Qasr al-Abd, Amman,4.6,1265
+490,Qasr Mushash, Zarqa,4.6,1270
+491,Al-Balqa Mosque, Salt,4.6,1265
+492,Qasr al-Kharrana, Zarqa,4.6,1275
+493,Wadi Ghuweir, Tafila,4.7,920
+494,Qasr al-Muwaqqar, Amman,4.5,1265
+495,Al-Romman Castle, Ajloun,4.6,1295
+496,Qasr Tuba, Eastern Desert,4.6,1270
+497,Jordan Archaeological Museum, Amman,4.6,1260
+498,Jordan Folklore Museum, Amman,4.6,1260
+499,Qasr al-Azraq, Azraq,4.7,1330
+500,Qasr el Yahud, Jordan Valley,4.7,1295
+501,Qasr Abu Haram, Zarqa,4.6,1275
+502,King's Way, Madaba,4.6,1250
+503,Baptism Site, Jordan Valley,4.8,1295
+504,Wadi Ghuweir, Tafila,4.7,920
+505,Hagia Sophia, Istanbul,4.9,2500
+506,Blue Mosque, Istanbul,4.8,2501
+507,Topkapi Palace, Istanbul,4.8,2500
+508,Pamukkale, Denizli,4.7,2030
+509,Cappadocia, Nevsehir,4.9,2000
+510,Ephesus, Izmir,4.8,1980
+511,Mount Nemrut, Adiyaman,4.6,1550
+512,Goreme National Park, Cappadocia,4.8,2001
+513,Aspendos Theatre, Antalya,4.7,2020
+514,Basilica Cistern, Istanbul,4.8,2500
+515,Galata Tower, Istanbul,4.7,2501
+516,Dolmabahce Palace, Istanbul,4.8,2500
+517,Pergamon, Bergama,4.6,1975
+518,Patara Beach, Antalya,4.7,2022
+519,Sumela Monastery, Trabzon,4.6,2200
+520,Konyaalti Beach, Antalya,4.7,2025
+521,Hierapolis, Denizli,4.7,2030
+522,Antalya Museum, Antalya,4.6,2020
+523,Ani Ruins, Kars,4.6,2050
+524,Grand Bazaar, Istanbul,4.7,2500
+525,Fethiye, Mugla,4.7,1990
+526,Alanya Castle, Alanya,4.7,2000
+527,Uludag National Park, Bursa,4.6,2450
+528,Troy, Canakkale,4.6,2455
+529,Mount Ararat, Agri,4.5,1800
+530,Suleymaniye Mosque, Istanbul,4.8,2500
+531,Iztuzu Beach, Dalyan,4.7,1995
+532,Ankara Castle, Ankara,4.6,2200
+533,Temple of Artemis, Selcuk,4.7,1980
+534,Saklikent Gorge, Antalya,4.7,2015
+535,Oludeniz, Mugla,4.8,1990
+536,Pergamum Acropolis, Bergama,4.6,1975
+537,Butterfly Valley, Fethiye,4.7,1990
+538,Ataturk Mausoleum, Ankara,4.7,2200
+539,Hagia Irene, Istanbul,4.7,2500
+540,Yivli Minaret, Antalya,4.6,2020
+541,Pamukkale Thermal Pools, Denizli,4.8,2030
+542,Ihlara Valley, Aksaray,4.6,1970
+543,Istanbul Archaeological Museums, Istanbul,4.7,2500
+544,Aspendos Bridge, Antalya,4.6,2020
+545,Bodrum Castle, Bodrum,4.7,2000
+546,Aphrodisias, Aydin,4.6,2010
+547,Ephesus Museum, Selcuk,4.7,1980
+548,Sumela Monastery, Trabzon,4.7,2200
+549,Gobekli Tepe, Sanliurfa,4.8,1510
+550,Blue Lagoon, Oludeniz,4.8,1990
+551,Rumeli Fortress, Istanbul,4.7,2501
+552,Mount Uludag, Bursa,4.6,2450
+553,Hidirlik Tower, Antalya,4.6,2020
+554,Lake Van, Van,4.6,1650
+555,Red Valley, Cappadocia,4.8,2001
+556,Miletus, Aydin,4.6,2015
+557,Side Theatre, Side,4.7,2010
+558,Zeugma Mosaic Museum, Gaziantep,4.7,1400
+559,Phaselis, Antalya,4.6,2020
+560,Duden Waterfalls, Antalya,4.7,2022
+561,St. Nicholas Church, Demre,4.6,2015
+562,Basilica of St. John, Selcuk,4.7,1980
+563,Kaymakli Underground City, Cappadocia,4.7,2002
+564,Fenerbahce Park, Istanbul,4.6,2501
+565,Antalya Aquarium, Antalya,4.7,2020
+566,Aspendos Aqueduct, Antalya,4.6,2020
+567,Yenice Forest, Karabuk,4.5,2350
+568,Bodrum Marina, Bodrum,4.7,2000
+569,Cemberlitas Hamami, Istanbul,4.6,2500
+570,Anitkabir, Ankara,4.7,2200
+571,Edirne, Edirne,4.6,2520
+572,Selimiye Mosque, Edirne,4.8,2520
+573,Sagalassos, Burdur,4.6,2018
+574,Alacati, Izmir,4.7,1975
+575,Golden Horn, Istanbul,4.7,2501
+576,Gobeklitepe, Sanliurfa,4.8,1510
+577,Dalyan, Mugla,4.7,1995
+578,Beylerbeyi Palace, Istanbul,4.7,2500
+579,Uzungol, Trabzon,4.7,2200
+580,Galata Mevlevi Museum, Istanbul,4.6,2501
+581,Izmir Clock Tower, Izmir,4.6,1980
+582,Ataturk House, Antalya,4.6,2020
+583,Kabak Bay, Fethiye,4.7,1990
+584,Kas, Antalya,4.7,2025
+585,Rumkale, Gaziantep,4.6,1405
+586,Yildiz Palace, Istanbul,4.6,2500
+587,Mausoleum at Halicarnassus, Bodrum,4.7,2000
+588,Butterfly Valley, Fethiye,4.8,1990
+589,Cirali Beach, Antalya,4.7,2023
+590,Camlica Hill, Istanbul,4.6,2500
+591,Kalkan, Antalya,4.7,2022
+592,Prince Islands, Istanbul,4.7,2505
+593,Akdamar Island, Van,4.7,1655
+594,Mardin, Mardin,4.7,1530
+595,Hisaronu, Fethiye,4.6,1990
+596,Anemurium, Anamur,4.6,1950
+597,Manavgat Waterfall, Antalya,4.7,2015
+598,Hasankeyf, Batman,4.6,1500
+599,Bursa City Museum, Bursa,4.6,2450
+600,Antakya Archaeological Museum, Hatay,4.6,1200
+601,Basilica of St. John, Selcuk,4.7,1980
+602,Sumela Monastery, Trabzon,4.7,2200
+603,Harran, Sanliurfa,4.6,1505
+604,Eyup Sultan Mosque, Istanbul,4.7,2500
+605,Mersin Marina, Mersin,4.6,1580
+606,Eminonu Square, Istanbul,4.6,2500
+607,Mugla, Mugla,4.7,1985
+608,Iznik, Bursa,4.6,2455
+609,Dara, Mardin,4.6,1535
+610,Alacati, Izmir,4.7,1975
+611,Amasya, Amasya,4.6,2330
+612,Celsus Library, Selcuk,4.8,1980
+613,Koprulu Canyon, Antalya,4.6,2020
+614,Gaziantep Castle, Gaziantep,4.6,1400
+615,Emirgan Park, Istanbul,4.7,2501
+616,Amasra, Bartin,4.6,2300
+617,Buyukada, Istanbul,4.7,2505
+618,Akcakoca, Duzce,4.6,2430
+619,Cumalikizik, Bursa,4.7,2450
+620,Seyitgazi Tomb, Eskisehir,4.6,2205
+621,Selcuk, Izmir,4.7,1980
+622,Trojan Horse, Canakkale,4.7,2455
+623,Hattusa, Corum,4.7,2250
+624,Mount Tahtali, Antalya,4.7,2020
+625,Mevlana Museum, Konya,4.8,1955
+626,Lycian Way, Antalya,4.8,2020
+627,Sumela Monastery, Trabzon,4.7,2200
+628,Clock Tower, Izmir,4.6,1980
+629,Balat, Istanbul,4.6,2500
+630,Kaunos, Dalyan,4.6,1995
+631,Tarsus Waterfall, Mersin,4.6,1585
+632,Ortakoy Mosque, Istanbul,4.7,2500
+633,Istanbul Modern, Istanbul,4.7,2501
+634,Sanliurfa, Sanliurfa,4.7,1500
+635,Adana, Adana,4.6,1420
+636,Denizli, Denizli,4.6,2030
+637,Derinkuyu Underground City, Nevsehir,4.7,2002
+638,Izmir, Izmir,4.6,1980
+639,Hierapolis, Pamukkale,4.7,2030
+640,Sirince, Izmir,4.7,1980
+641,Myra, Demre,4.6,2015
+642,Perge, Antalya,4.7,2020
+643,Edirne Old Mosque, Edirne,4.7,2520
+644,Samsun, Samsun,4.6,2250
+645,Artvin, Artvin,4.6,2350
+646,Van Castle, Van,4.6,1650
+647,Sultanahmet Square, Istanbul,4.7,2500
+648,Bozcaada, Canakkale,4.6,2455
+649,Urfa Castle, Sanliurfa,4.6,1510
+650,Pamukkale Antique Pool, Denizli,4.8,2030
+651,Kirklareli, Kirklareli,4.6,2540
+652,Diyarbakir, Diyarbakir,4.6,1550
+653,Kusadasi, Aydin,4.7,1990
+654,Datca, Mugla,4.7,2000
+655,Gumusluk, Bodrum,4.6,2005
+656,Yesemek, Gaziantep,4.6,1410
+657,Safranbolu, Karabuk,4.6,2350
+658,Nemrut Crater Lake, Bitlis,4.6,1555
+659,Termessos, Antalya,4.7,2020
+660,Patara, Antalya,4.7,2022
+661,Olympos, Antalya,4.7,2023
+662,Gaziantep Museum, Gaziantep,4.6,1400
+663,Erzurum, Erzurum,4.6,1870
+664,Akdamar Church, Van,4.7,1655
+665,Kalkan, Antalya,4.7,2022
+666,Al-Aqsa Mosque, Jerusalem,4.9,1235
+667,Church of the Nativity, Bethlehem,4.8,1245
+668,Dome of the Rock, Jerusalem,4.9,1235
+669,Rachel's Tomb, Bethlehem,4.7,1245
+670,Hebron Old City, Hebron,4.6,1250
+671,Hisham's Palace, Jericho,4.6,1275
+672,Mount of Olives, Jerusalem,4.8,1237
+673,Wadi Qelt, Jericho,4.7,1280
+674,Qumran Caves, West Bank,4.7,1285
+675,Saint George's Monastery, Jericho,4.7,1280
+676,Jericho Temptation Mountain, Jericho,4.7,1275
+677,Ramallah Cultural Palace, Ramallah,4.6,1240
+678,Shepherds' Fields, Beit Sahour,4.7,1246
+679,Gaza Beach, Gaza,4.6,1265
+680,Nabi Musa, Jericho,4.6,1275
+681,Ein Prat Nature Reserve, Al-Bireh,4.7,1255
+682,Tel es-Sultan, Jericho,4.6,1275
+683,Herod's Palace, Hebron,4.7,1250
+684,Shuqba Cave, Ramallah,4.6,1242
+685,Jacob's Well, Nablus,4.7,1230
+686,Sebastia, Nablus,4.7,1230
+687,Jenin Freedom Theatre, Jenin,4.6,1215
+688,Haram esh-Sharif, Jerusalem,4.9,1235
+689,St. Anne's Church, Jerusalem,4.8,1235
+690,Bethlehem Old City, Bethlehem,4.7,1245
+691,Yasser Arafat Museum, Ramallah,4.6,1240
+692,Haram al-Rama, Hebron,4.6,1250
+693,Khan al-Umdan, Hebron,4.7,1250
+694,Wadi al-Quff, Hebron,4.6,1250
+695,Ein Gedi Reserve, West Bank,4.8,1287
+696,Beit She'an, West Bank,4.6,1285
+697,Khirbet Qumran, Jericho,4.7,1280
+698,Shilo, West Bank,4.6,1240
+699,St. George's Church, Gaza,4.6,1260
+700,Al-Kasaba Theatre, Ramallah,4.7,1241
+701,Salfit Olive Trees, Salfit,4.6,1237
+702,Burqin Church, Jenin,4.6,1215
+703,Tell Balata, Nablus,4.7,1230
+704,Ain al-Sultan, Jericho,4.6,1275
+705,Al-Matar Mosque, Jericho,4.6,1275
+706,Ein Feshkha, West Bank,4.7,1285
+707,St. Theodosius' Monastery, Bethlehem,4.7,1245
+708,Beit Jala Old City, Beit Jala,4.6,1244
+709,Al-Khader Monastery, Bethlehem,4.7,1245
+710,Hebron Glass Factory, Hebron,4.6,1250
+711,Jericho Old Synagogue, Jericho,4.7,1275
+712,Dar Zahran Heritage Building, Ramallah,4.6,1240
+713,Ein Arik, Ramallah,4.6,1242
+714,Birzeit University Museum, Ramallah,4.6,1241
+715,Nabi Samuel National Park, Jerusalem,4.7,1236
+716,Taybeh Brewery, Taybeh,4.6,1242
+717,Mukhmas, Ramallah,4.6,1240
+718,Ein Gedi Spa, West Bank,4.7,1287
+719,An-Nabi Yunis Mosque, Halhul,4.6,1252
+720,Battir Village, Bethlehem,4.7,1245
+721,Al-Walaja, Bethlehem,4.6,1245
+722,Deir Dibwan, Ramallah,4.6,1240
+723,Al-Amari Refugee Camp, Ramallah,4.6,1241
+724,Dura al-Qar, Ramallah,4.6,1240
+725,Nabi Saleh, Ramallah,4.6,1242
+726,Al-Tireh, Ramallah,4.6,1240
+727,Wadi al-Badan, Nablus,4.6,1235
+728,Kalandia, Ramallah,4.6,1240
+729,Zababdeh, Jenin,4.6,1215
+730,Beit Ur al-Fauqa, Ramallah,4.6,1240
+731,Silwad, Ramallah,4.6,1241
+732,Aboud, Ramallah,4.6,1240
+733,Arura, Ramallah,4.6,1240
+734,Mazari' al-Nubani, Ramallah,4.6,1240
+735,Beit Liqya, Ramallah,4.6,1240
+736,Ein Siniya, Ramallah,4.6,1240
+737,Al-Bireh, Ramallah,4.6,1240
+738,Anata, Jerusalem,4.6,1235
+739,Biddu, Jerusalem,4.6,1235
+740,Al-Auja, Jericho,4.6,1275
+741,Beit Hanina, Jerusalem,4.6,1235
+742,Qabatiya, Jenin,4.6,1215
+743,Qalqilya Zoo, Qalqilya,4.7,1225
+744,Mas-ha, Qalqilya,4.6,1225
+745,Azun, Qalqilya,4.6,1225
+746,Habla, Qalqilya,4.6,1225
+747,Azzun Atma, Qalqilya,4.6,1225
+748,Hajja, Qalqilya,4.6,1225
+749,Jayyous, Qalqilya,4.6,1225
+750,Kafr Thulth, Qalqilya,4.6,1225
+751,Al Nabi Elyas, Qalqilya,4.6,1225
+752,Kafr Qaddum, Qalqilya,4.6,1225
+753,Sanniriya, Qalqilya,4.6,1225
+754,Beit Amin, Qalqilya,4.6,1225
+755,Jinsafut, Qalqilya,4.6,1225
+756,Khirbet Sir, Qalqilya,4.6,1225
+757,Baqa al-Gharbiyye, West Bank,4.6,1230
+758,Tulkarm, Tulkarm,4.6,1220
+759,Bal'a, Tulkarm,4.6,1220
+760,Beit Lid, Tulkarm,4.6,1220
+761,Anabta, Tulkarm,4.6,1220
+762,Deir al-Ghusun, Tulkarm,4.6,1220
+763,Attil, Tulkarm,4.6,1220
+764,Baqa ash-Sharqiyya, Tulkarm,4.6,1220
+765,Shuweika, Tulkarm,4.6,1220
+766,Quffin, Tulkarm,4.6,1220
+767,Kafr al-Labad, Tulkarm,4.6,1220
+768,Azzun, Tulkarm,4.6,1220
+769,Zita, Tulkarm,4.6,1220
+770,Deir Sharaf, Nablus,4.6,1230
+771,Asira al-Qibliya, Nablus,4.6,1230
+772,Beita, Nablus,4.6,1230
+773,Beit Dajan, Nablus,4.6,1230
+774,Deir al-Hatab, Nablus,4.6,1230
+775,Al Badhan, Nablus,4.6,1230
+776,Salim, Nablus,4.6,1230
+777,Aqraba, Nablus,4.6,1230
+778,Majdal Bani Fadil, Nablus,4.6,1230
+779,Talfit, Nablus,4.6,1230
+780,Qusra, Nablus,4.6,1230
+781,Duma, Nablus,4.6,1230
+782,Qabalan, Nablus,4.6,1230
+783,Huwwara, Nablus,4.6,1230
+784,Awarta, Nablus,4.6,1230
+785,Kusra, Nablus,4.6,1230
+786,Kafr Qalil, Nablus,4.6,1230
+787,Zawata, Nablus,4.6,1230
+788,Jit, Nablus,4.6,1230
+789,Azmut, Nablus,4.6,1230
+790,Al-Lubban ash-Sharqiya, Nablus,4.6,1230
+791,Burin, Nablus,4.6,1230
+792,Rafah, Rafah,4.6,1260
+793,Khan Yunis, Gaza,4.6,1260
+794,Al-Nuseirat, Gaza,4.6,1265
+795,Deir al-Balah, Gaza,4.6,1265
+796,Al-Bureij, Gaza,4.6,1265
+797,Al-Maghazi, Gaza,4.6,1265
+798,Al-Zahra, Gaza,4.6,1265
+799,Al-Mughraqa, Gaza,4.6,1265
+800,Shuja'iyya, Gaza,4.6,1265
+801,Al-Shejaeya, Gaza,4.6,1265
+802,Al-Rimal, Gaza,4.6,1265
+803,Gaza Port, Gaza,4.6,1265
+804,Bureij Camp, Gaza,4.6,1265
+805,Al-Qarara, Gaza,4.6,1260
+806,Al-Fukhari, Gaza,4.6,1260
+807,Jabalia, Gaza,4.6,1265
+808,Beit Lahia, Gaza,4.6,1265
+809,Beit Hanoun, Gaza,4.6,1265
+810,Rimal, Gaza,4.6,1265
+811,Al-Shati Camp, Gaza,4.6,1265
+812,Al-Zaytoun, Gaza,4.6,1265
+813,Al-Sabra, Gaza,4.6,1265
+814,Sheikh Radwan, Gaza,4.6,1265
+815,Al-Daraj, Gaza,4.6,1265
+816,Sheikh Ejleen, Gaza,4.6,1265
+817,Nuseirat Camp, Gaza,4.6,1265
+818,Al-Mashtal, Gaza,4.6,1265
+819,Al-Shijaiyah, Gaza,4.6,1265
+820,Al-Naser, Gaza,4.6,1265
+821,Al-Soudania, Gaza,4.6,1265
+822,Al-Shaaf, Gaza,4.6,1265
+823,Al-Mawasi, Gaza,4.6,1260
+824,Khuza'a, Gaza,4.6,1260
+825,Rafah Camp, Rafah,4.6,1260
+826,Al-Amal, Khan Yunis,4.6,1260
+827,Al-Tuffah, Gaza,4.6,1265
+828,Al-Sabra, Gaza,4.6,1265
+829,Al-Shayma', Gaza,4.6,1265
+830,Zaitoun, Gaza,4.6,1265
+831,Jabalya, Gaza,4.6,1265
+832,Tal Al-Hawa, Gaza,4.6,1265
+833,Masaid, Gaza,4.6,1265
+834,Al-Montar, Gaza,4.6,1265
+835,Al-Zawaida, Gaza,4.6,1265
+836,Al-Bayuk, Gaza,4.6,1265
+837,Al-Sayafa, Gaza,4.6,1265
+838,Al-Shuka, Gaza,4.6,1265
+839,Nuseirat, Gaza,4.6,1265
+840,Dier Al-Balah, Gaza,4.6,1265
+841,Al-Qarara, Gaza,4.6,1265
+842,Burj Khalifa, Dubai,4.9,1590
+843,Sheikh Zayed Grand Mosque, Abu Dhabi,4.9,1620
+844,The Dubai Mall, Dubai,4.8,1590
+845,Ferrari World, Abu Dhabi,4.8,1625
+846,Palm Jumeirah, Dubai,4.8,1595
+847,Yas Waterworld, Abu Dhabi,4.8,1625
+848,Dubai Marina, Dubai,4.7,1592
+849,Louvre Abu Dhabi, Abu Dhabi,4.9,1620
+850,Dubai Miracle Garden, Dubai,4.7,1593
+851,Qasr Al Hosn, Abu Dhabi,4.7,1621
+852,Ski Dubai, Dubai,4.7,1591
+853,Emirates Palace, Abu Dhabi,4.8,1620
+854,Dubai Fountain, Dubai,4.8,1590
+855,Warner Bros. World, Abu Dhabi,4.8,1625
+856,Dubai Creek, Dubai,4.6,1590
+857,Saadiyat Island, Abu Dhabi,4.7,1620
+858,Jumeirah Beach, Dubai,4.7,1592
+859,Corniche Beach, Abu Dhabi,4.6,1620
+860,Global Village, Dubai,4.7,1593
+861,Heritage Village, Abu Dhabi,4.6,1621
+862,Dubai Aquarium & Underwater Zoo, Dubai,4.8,1590
+863,Al Ain Zoo, Abu Dhabi,4.7,1622
+864,Dubai Opera, Dubai,4.7,1590
+865,Marina Mall, Abu Dhabi,4.6,1620
+866,The Dubai Frame, Dubai,4.8,1591
+867,Qasr Al Watan, Abu Dhabi,4.8,1620
+868,Dubai Parks and Resorts, Dubai,4.8,1595
+869,Al Ain Oasis, Abu Dhabi,4.7,1622
+870,IMG Worlds of Adventure, Dubai,4.7,1594
+871,Manarat Al Saadiyat, Abu Dhabi,4.7,1620
+872,Dubai Gold Souk, Dubai,4.6,1590
+873,Al Jahili Fort, Abu Dhabi,4.6,1622
+874,Atlantis Aquaventure Waterpark, Dubai,4.8,1595
+875,Zayed Sports City, Abu Dhabi,4.6,1620
+876,Dubai Museum, Dubai,4.6,1590
+877,Mangrove National Park, Abu Dhabi,4.6,1620
+878,Jumeirah Mosque, Dubai,4.7,1591
+879,Al Hudayriat Island, Abu Dhabi,4.6,1620
+880,La Mer, Dubai,4.7,1591
+881,Yas Marina Circuit, Abu Dhabi,4.8,1625
+882,Dubai Desert Conservation Reserve, Dubai,4.8,1605
+883,Emirates Park Zoo, Abu Dhabi,4.7,1621
+884,Kite Beach, Dubai,4.6,1592
+885,Women’s Handicraft Centre, Abu Dhabi,4.6,1621
+886,Burj Al Arab, Dubai,4.9,1592
+887,Al Ain National Museum, Abu Dhabi,4.6,1622
+888,The Green Planet, Dubai,4.7,1590
+889,Abu Dhabi Falcon Hospital, Abu Dhabi,4.8,1620
+890,Dubai Dolphinarium, Dubai,4.6,1590
+891,Sir Bani Yas Island, Abu Dhabi,4.7,1660
+892,Dubai Ice Rink, Dubai,4.6,1590
+893,Qaryat Al Beri, Abu Dhabi,4.6,1620
+894,JBR Walk, Dubai,4.7,1592
+895,Al Ain Palace Museum, Abu Dhabi,4.6,1622
+896,Dubai Safari Park, Dubai,4.7,1594
+897,Masdar City, Abu Dhabi,4.6,1621
+898,Dubai Garden Glow, Dubai,4.7,1590
+899,Dalma Mall, Abu Dhabi,4.6,1621
+900,The Lost Chambers Aquarium, Dubai,4.8,1595
+901,Capital Gate, Abu Dhabi,4.6,1620
+902,Dubai Spice Souk, Dubai,4.6,1590
+903,Mushrif Central Park, Abu Dhabi,4.6,1620
+904,Dubai Frame, Dubai,4.8,1591
+905,Al Wahda Mall, Abu Dhabi,4.6,1620
+906,Dubai Butterfly Garden, Dubai,4.7,1593
+907,Al Bateen Beach, Abu Dhabi,4.6,1620
+908,Madinat Jumeirah, Dubai,4.8,1592
+909,Bateen Dhow Yard, Abu Dhabi,4.6,1620
+910,The Walk at JBR, Dubai,4.7,1592
+911,Al Ain Camel Market, Abu Dhabi,4.6,1622
+912,Dubai Marina Mall, Dubai,4.7,1592
+913,Marina Eye, Abu Dhabi,4.6,1620
+914,Etihad Museum, Dubai,4.7,1590
+915,Emirates National Auto Museum, Abu Dhabi,4.6,1625
+916,Zabeel Park, Dubai,4.7,1590
+917,Yas Beach, Abu Dhabi,4.6,1625
+918,Al Fahidi Historical Neighbourhood, Dubai,4.7,1590
+919,Sheikh Zayed Heritage Centre, Abu Dhabi,4.6,1621
+920,Dubai Polo & Equestrian Club, Dubai,4.6,1593
+921,Eastern Mangroves, Abu Dhabi,4.6,1620
+922,Hatta Dam, Dubai,4.8,1630
+923,Al Forsan International Sports Resort, Abu Dhabi,4.6,1622
+924,Al Mamzar Beach Park, Dubai,4.7,1591
+925,Abu Dhabi Mall, Abu Dhabi,4.6,1620
+926,Dubai Opera House, Dubai,4.7,1590
+927,Jebel Hafeet, Abu Dhabi,4.8,1622
+928,Dubai Festival City Mall, Dubai,4.7,1590
+929,Khalifa Park, Abu Dhabi,4.6,1620
+930,Dubai Cruise Terminal, Dubai,4.6,1590
+931,Mushrif Mall, Abu Dhabi,4.6,1620
+932,Dubai Autodrome, Dubai,4.7,1593
+933,Marina Eye, Abu Dhabi,4.6,1620
+934,Dubai Canal, Dubai,4.7,1591
+935,Bawabat Al Sharq Mall, Abu Dhabi,4.6,1620
+936,Al Seef, Dubai,4.7,1590
+937,Al Qattara Arts Centre, Abu Dhabi,4.6,1622
+938,Mercato Shopping Mall, Dubai,4.6,1591
+939,Yas Gateway Park, Abu Dhabi,4.6,1625
+940,Wafi Mall, Dubai,4.6,1590
+941,Khalidiya Palace Rayhaan, Abu Dhabi,4.6,1620
+942,Dragon Mart, Dubai,4.6,1593
+943,Sheikh Zayed Cricket Stadium, Abu Dhabi,4.6,1620
+944,Jumeirah Lake Towers, Dubai,4.6,1592
+945,Miraj Museum, Abu Dhabi,4.6,1621
+946,Ibn Battuta Mall, Dubai,4.6,1592
+947,Mina Zayed, Abu Dhabi,4.6,1620
+948,The Outlet Village, Dubai,4.6,1595
+949,Al Maryah Island, Abu Dhabi,4.6,1620
+950,Dubai Design District, Dubai,4.6,1590
+951,Nation Towers, Abu Dhabi,4.6,1620
+952,City Walk, Dubai,4.7,1590
+953,Umm Al Emarat Park, Abu Dhabi,4.6,1620
+954,Bluewaters Island, Dubai,4.7,1592
+955,Sheikh Zayed Grand Mosque Centre, Abu Dhabi,4.9,1620
+956,Dubai Opera Garden, Dubai,4.6,1590
+957,Emirates Heritage Club, Abu Dhabi,4.6,1621
+958,Al Fahidi Fort, Dubai,4.6,1590
+959,Qasr Al Muwaiji, Abu Dhabi,4.6,1622
+960,Zabeel Palace, Dubai,4.6,1590
+961,Al Bahia Beach, Abu Dhabi,4.6,1621
+962,Dubai Sports World, Dubai,4.6,1593
+963,The Galleria, Abu Dhabi,4.6,1620
+964,Dubai Frame, Dubai,4.8,1591
+965,Al Raha Beach, Abu Dhabi,4.6,1621
+966,The Beach at JBR, Dubai,4.7,1592
+967,Al Ain Oasis, Abu Dhabi,4.6,1622
+968,Dubai Creek Harbour, Dubai,4.6,1590
+969,Abu Dhabi Corniche, Abu Dhabi,4.6,1620
+970,Al Khazzan Park, Dubai,4.6,1590
+971,Al Ain Mall, Abu Dhabi,4.6,1622
+972,Dubai Marina Walk, Dubai,4.7,1592
+973,Khalifa City, Abu Dhabi,4.6,1621
+974,Dubai Frame, Dubai,4.8,1591
+975,Abu Dhabi Children's Library, Abu Dhabi,4.6,1620
+976,Dubai Dolphinarium, Dubai,4.6,1590
+977,Emirates Palace Marina, Abu Dhabi,4.6,1620
+978,Dubai Safari Park, Dubai,4.7,1594
+979,Madinat Zayed Shopping Centre, Abu Dhabi,4.6,1620
+980,The Lost Chambers Aquarium, Dubai,4.8,1595
+981,Al Maqtaa Fort, Abu Dhabi,4.6,1620
+982,Dubai Sports City, Dubai,4.6,1593
+983,Al Wathba Wetland Reserve, Abu Dhabi,4.6,1625
+984,Dubai Marina Yacht Club, Dubai,4.7,1592
+985,The Collection at The St. Regis, Abu Dhabi,4.6,1620
+986,Dubai Garden Centre, Dubai,4.6,1590
+987,Emirates Palace Hotel, Abu Dhabi,4.8,1620
+988,Dubai Miracle Garden, Dubai,4.7,1593
+989,Al Ain Raceway, Abu Dhabi,4.6,1622
+990,Dubai Opera, Dubai,4.7,1590
+991,Al Bateen Shipyard, Abu Dhabi,4.6,1620
+992,Dubai Marina Towers, Dubai,4.7,1592
+993,Abu Dhabi International Airport, Abu Dhabi,4.6,1621
+994,Dubai Hills Golf Club, Dubai,4.6,1593
+995,Emirates Park Zoo, Abu Dhabi,4.7,1621
+996,The Pointe, Dubai,4.7,1595
+997,Wahat Al Karama, Abu Dhabi,4.6,1620
+998,Jumeirah Beach Park, Dubai,4.6,1592
+999,Al Ain Equestrian, Abu Dhabi,4.6,1622
+1000,Dubai Festival City, Dubai,4.7,1590
+1001,Al Maryah Island, Abu Dhabi,4.6,1620
+1002,Safa Park, Dubai,4.6,1591
+1003,Al Nahyan Stadium, Abu Dhabi,4.6,1620
+1004,The Els Club, Dubai,4.6,1593
+1005,Al Jimi Mall, Abu Dhabi,4.6,1622
+1006,Dubai Safari Park, Dubai,4.7,1594
+1007,Al Ain Oasis, Abu Dhabi,4.6,1622
+1008,The Dubai Fountain, Dubai,4.8,1590
+1009,Al Jahili Fort, Abu Dhabi,4.6,1622
+1010,IMG Worlds of Adventure, Dubai,4.7,1594
+1011,Khalifa Park Library, Abu Dhabi,4.6,1620
+1012,La Perle by Dragone, Dubai,4.7,1590
+1013,Sheikh Zayed Palace Museum, Abu Dhabi,4.6,1622
+1014,Dubai Polo Club, Dubai,4.6,1593
+1015,Eastern Mangroves, Abu Dhabi,4.6,1620
+1016,Al Fahidi Historic District, Dubai,4.7,1590
+1017,Mushrif Central Park, Abu Dhabi,4.6,1620
+1018,Dubai Dolphinarium, Dubai,4.6,1590
+1019,Yas Island, Abu Dhabi,4.8,1625
+1020,Dubai Garden Glow, Dubai,4.7,1590
+1021,Al Ain National Museum, Abu Dhabi,4.6,1622
+1022,Al Marmoom Desert Conservation Reserve, Dubai,4.8,1600
+1023,Dubai Festival City, Dubai,4.7,1590
+1024,Capital Gate, Abu Dhabi,4.6,1620
+1025,The Dubai Mall, Dubai,4.8,1590
+1026,Al Ain Zoo, Abu Dhabi,4.7,1622
+1027,JBR Beach, Dubai,4.7,1592
+1028,The Galleria, Abu Dhabi,4.6,1620
+1029,Dubai Museum, Dubai,4.6,1590
+1030,Manarat Al Saadiyat, Abu Dhabi,4.7,1620
+1031,Dubai Marina, Dubai,4.7,1592
+1032,Sheikh Zayed Bridge, Abu Dhabi,4.6,1620
+1033,Jumeirah Mosque, Dubai,4.7,1591
+1034,Qasr Al Watan, Abu Dhabi,4.8,1620
+1035,Dubai Opera, Dubai,4.7,1590
+1036,Yas Waterworld, Abu Dhabi,4.8,1625
+1037,Souq Waqif, Doha,4.8,1290
+1038,Museum of Islamic Art, Doha,4.9,1290
+1039,Katara Cultural Village, Doha,4.7,1295
+1040,The Pearl-Qatar, Doha,4.7,1297
+1041,Aspire Park, Doha,4.8,1289
+1042,Qatar National Museum, Doha,4.9,1290
+1043,Al Zubarah Fort, Al Zubarah,4.6,1350
+1044,Al Khor Park, Al Khor,4.6,1315
+1045,Villaggio Mall, Doha,4.6,1289
+1046,Banana Island, Doha,4.8,1295
+1047,Barzan Towers, Umm Salal Mohammed,4.6,1290
+1048,The Corniche, Doha,4.8,1290
+1049,Al Wakrah Souq, Al Wakrah,4.7,1275
+1050,Sealine Beach, Mesaieed,4.7,1260
+1051,Al Thakira Mangroves, Al Thakira,4.6,1320
+1052,Al Shahaniya Camel Racetrack, Al Shahaniya,4.6,1310
+1053,Dukhan Beach, Dukhan,4.6,1330
+1054,Aspire Tower, Doha,4.8,1289
+1055,Al Bidda Park, Doha,4.7,1290
+1056,Fanar - Qatar Islamic Cultural Center, Doha,4.7,1290
+1057,Al Ruwais, Al Ruwais,4.6,1375
+1058,Sheikh Faisal Bin Qassim Al Thani Museum, Al Samriya,4.8,1300
+1059,Katara Beach, Doha,4.7,1295
+1060,Qatar Science and Technology Park, Doha,4.7,1290
+1061,MIA Park, Doha,4.8,1290
+1062,Purple Island, Al Khor,4.6,1315
+1063,Al Jassasiya Carvings, Al Jassasiya,4.6,1340
+1064,Al Wajbah Fort, Al Wajbah,4.6,1300
+1065,Education City, Doha,4.7,1289
+1066,Al Koot Fort, Doha,4.7,1290
+1067,Lusail Marina Promenade, Lusail,4.7,1298
+1068,Doha Festival City, Doha,4.6,1291
+1069,Mathaf: Arab Museum of Modern Art, Doha,4.7,1290
+1070,Al Ghariya Beach, Al Ghariya,4.6,1360
+1071,Qatar National Library, Doha,4.8,1290
+1072,Abu Samrah, Abu Samrah,4.6,1250
+1073,Al Wakrah Beach, Al Wakrah,4.6,1275
+1074,The Golden Mosque, Doha,4.7,1290
+1075,Qatar Racing & Equestrian Club, Doha,4.6,1289
+1076,Museum of Illusions, Doha,4.6,1290
+1077,Al Arish, Al Arish,4.6,1370
+1078,Al Daayen, Al Daayen,4.6,1300
+1079,Aspire Zone, Doha,4.7,1289
+1080,Khalifa International Stadium, Doha,4.7,1289
+1081,Qatar Sports Club, Doha,4.6,1290
+1082,Al Thumama Stadium, Doha,4.6,1290
+1083,Al Rayyan Park, Al Rayyan,4.6,1292
+1084,Al Dakhira Mangroves, Al Dakhira,4.6,1318
+1085,Lusail Sports Arena, Lusail,4.6,1298
+1086,Al Karaana Lagoon, Al Karaana,4.6,1280
+1087,Aqua Park Qatar, Abu Nakhla,4.7,1295
+1088,Qatar National Theater, Doha,4.7,1290
+1089,Al Waab, Al Waab,4.6,1289
+1090,Mesaieed Industrial Area, Mesaieed,4.6,1260
+1091,Al Wukair, Al Wukair,4.6,1270
+1092,Al Messila, Doha,4.6,1289
+1093,Madinat Khalifa, Doha,4.6,1290
+1094,Umm Bab Beach, Umm Bab,4.6,1320
+1095,Al Sadd, Doha,4.6,1290
+1096,Al Wakra Museum, Al Wakrah,4.6,1275
+1097,Doha Golf Club, Doha,4.7,1290
+1098,West Bay, Doha,4.7,1292
+1099,Al Nasr Street, Doha,4.6,1290
+1100,Oxygen Park, Doha,4.7,1290
+1101,Umm Salal Ali, Umm Salal Ali,4.6,1290
+1102,Al Hitmi, Doha,4.6,1290
+1103,Muntazah Park, Doha,4.6,1290
+1104,Al Jazeera Media Cafe, Doha,4.7,1290
+1105,Wadi Msheireb, Msheireb,4.6,1290
+1106,Abu Hamour, Doha,4.6,1289
+1107,Simaisma Beach, Simaisma,4.6,1310
+1108,Al Kharaitiyat, Al Kharaitiyat,4.6,1290
+1109,Dafna Park, Doha,4.6,1292
+1110,Al Sadd Stadium, Doha,4.6,1290
+1111,Al Egla, Al Egla,4.6,1310
+1112,Dukhan, Dukhan,4.6,1330
+1113,Al Udeid Air Base, Al Udeid,4.6,1275
+1114,Le Corniche, Doha,4.8,1290
+1115,Doha Corniche, Doha,4.8,1290
+1116,Ras Abrouq Rock Formations, Zekreet,4.6,1340
+1117,Al Daayen City, Al Daayen,4.6,1300
+1118,Zekreet Beach, Zekreet,4.6,1340
+1119,Al Thumama, Doha,4.6,1290
+1120,Al Waab, Doha,4.6,1289
+1121,Al Khor Beach, Al Khor,4.6,1315
+1122,Al Wakrah Stadium, Al Wakrah,4.6,1275
+1123,Umm Salal Mohammed, Umm Salal Mohammed,4.6,1290
+1124,Al Sailiya, Doha,4.6,1289
+1125,Al Dafna, Doha,4.6,1292
+1126,Madinat Khalifa North, Doha,4.6,1290
+1127,Al Ruwais Beach, Al Ruwais,4.6,1375
+1128,Al Bidda Tower, Doha,4.7,1290
+1129,Al Qassar, Doha,4.6,1292
+1130,Bu Samra, Bu Samra,4.6,1250
+1131,Al Aziziya, Doha,4.6,1289
+1132,West Bay Lagoon, Doha,4.7,1293
+1133,Al Wakrah Park, Al Wakrah,4.6,1275
+1134,Fereej Bin Mahmoud, Doha,4.6,1290
+1135,Fereej Kulaib, Doha,4.6,1290
+1136,Al Asmakh, Doha,4.6,1290
+1137,Al Murra, Doha,4.6,1290
+1138,Fereej Al Amir, Doha,4.6,1290
+1139,Al Qassar Tower, Doha,4.6,1292
+1140,Umm Salal Sports Club, Umm Salal,4.6,1290
+1141,Al Wukair Beach, Al Wukair,4.6,1270
+1142,Al Wukair Park, Al Wukair,4.6,1270
+1143,The Gate Mall, Doha,4.6,1290
+1144,Katara Amphitheatre, Doha,4.7,1295
+1145,Al Khor Mall, Al Khor,4.6,1315
+1146,Al Daayen Stadium, Al Daayen,4.6,1300
+1147,Al Wakrah Souq, Al Wakrah,4.7,1275
+1148,Al Wajbah Palace, Al Wajbah,4.6,1300
+1149,Al Udeid, Al Udeid,4.6,1275
+1150,Al Nasr, Doha,4.6,1290
+1151,Al Qassar, Doha,4.6,1292
+1152,Umm Bab, Umm Bab,4.6,1320
+1153,Umm Qarn, Umm Qarn,4.6,1325
+1154,Umm Tais, Umm Tais,4.6,1350
+1155,Al Waab Park, Doha,4.6,1289
+1156,Umm Qarn, Umm Qarn,4.6,1325
+1157,Umm Tais Beach, Umm Tais,4.6,1350
+1158,Al Udeid Beach, Al Udeid,4.6,1275
+1159,The Pearl Marina, Doha,4.7,1297
+1160,Marsa Malaz Kempinski, Doha,4.7,1297
+1161,The Torch Doha, Doha,4.8,1289
+1162,Msheireb Museums, Doha,4.7,1290
+1163,Souq Al Wakrah, Al Wakrah,4.7,1275
+1164,Sidra Medical and Research Center, Doha,4.6,1290
+1165,Msheireb Enrichment Centre, Doha,4.7,1290
+1166,The Pearl-Qatar Beach, Doha,4.7,1297
+1167,Tornado Tower, Doha,4.6,1292
+1168,Khalifa International Tennis and Squash Complex, Doha,4.6,1289
+1169,Msheireb Properties, Doha,4.6,1290
+1170,Al Shamal, Al Shamal,4.6,1360
+1171,Al Sadd Sports Club, Doha,4.6,1290
+1172,Al Daayen, Doha,4.6,1290
+1173,Qanat Quartier, Doha,4.7,1297
+1174,Porto Arabia, Doha,4.7,1297
+1175,Pearl Boulevard, Doha,4.7,1297
+1176,Pearl Marina, Doha,4.7,1297
+1177,Pearl Beach, Doha,4.7,1297
+1178,Lagoona Mall, Doha,4.7,1297
+1179,Al Egla Beach, Al Egla,4.6,1310
+1180,Al Kharaitiyat Beach, Al Kharaitiyat,4.6,1290
+1181,Dafna Beach, Doha,4.6,1292
+1182,Al Ghariya, Al Ghariya,4.6,1360
+1183,Al Thakira, Al Thakira,4.6,1320
+1184,Al Shamal Beach, Al Shamal,4.6,1360
+1185,Ras Abrouq, Zekreet,4.6,1340
+1186,Al Waab Tower, Doha,4.6,1289
+1187,Al Sadd Park, Doha,4.6,1290
+1188,West Bay Lagoon, Doha,4.7,1293
+1189,Al Rayyan Beach, Al Rayyan,4.6,1292
+1190,Abu Samra Beach, Abu Samra,4.6,1250
+1191,Al Egla Park, Al Egla,4.6,1310
+1192,Al Ghariya Park, Al Ghariya,4.6,1360
+1193,The Pearl Marina, Doha,4.7,1297
+1194,The Pearl Boardwalk, Doha,4.7,1297
+1195,Katara Hills, Doha,4.7,1295
+1196,Al Waab Souq, Doha,4.6,1289
+1197,Umm Bab Park, Umm Bab,4.6,1320
+1198,Al Wakrah Hills, Al Wakrah,4.6,1275
+1199,Al Khor Souq, Al Khor,4.6,1315
+1200,The Pearl-Qatar Marina, Doha,4.7,1297
+1201,Al Daayen Beach, Al Daayen,4.6,1300
+1202,Al Daayen Hills, Al Daayen,4.6,1300
+1203,Al Daayen Souq, Al Daayen,4.6,1300
+1204,Umm Tais Souq, Umm Tais,4.6,1350
+1205,Umm Qarn Souq, Umm Qarn,4.6,1325
+1206,Umm Qarn Hills, Umm Qarn,4.6,1325
+1207,Al Wakrah Marina, Al Wakrah,4.6,1275
+1208,Al Wakrah Boardwalk, Al Wakrah,4.6,1275
+1209,Al Wakrah Park, Al Wakrah,4.6,1275
+1210,Al Wakrah Souq, Al Wakrah,4.6,1275
+1211,Al Wakrah Beach, Al Wakrah,4.6,1275
+1212,Al Wakrah Hills, Al Wakrah,4.6,1275
