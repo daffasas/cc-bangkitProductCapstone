@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">ihramConnect</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="email_error">Email tidak sesuai</string>
+    <string name="password_error">Password tidak sesuai</string>
+</resources>
