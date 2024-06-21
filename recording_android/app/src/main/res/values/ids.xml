@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item name="messageTextView" type="id" />
+    <item name="progressBar" type="id" />
+    <item name="emailTextView" type="id" />
+    <item name="emailEditTextLayout" type="id" />
+    <item name="passwordTextView" type="id" />
+    <item name="passwordEditTextLayout" type="id" />
+    <item name="passwordEditText" type="id" />
+    <item name="guidelineHorizontal2" type="id" />
+</resources>
